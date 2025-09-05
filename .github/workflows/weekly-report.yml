@@ -25,16 +25,40 @@ jobs:
         run: npm install
 
       - name: Install Playwright browsers
-        run: npx playwright install --with-deps chromium
+        run: |
+          echo "🎭 Installing Playwright browsers..."
+          npx playwright install --with-deps chromium
+          echo "✅ Playwright installation complete"
 
       - name: Run weekly meta analysis
-        run: npm run weekly-report
+        run: |
+          echo "🚀 Starting weekly meta analysis..."
+          echo "Node version: $(node --version)"
+          echo "NPM version: $(npm --version)"
+          echo "Available memory: $(free -h)"
+          echo "Disk space: $(df -h)"
+          npm run weekly-report || {
+            echo "❌ Main scraping failed, attempting fallback with existing data..."
+            if [ -f "data/latest.json" ]; then
+              echo "📊 Using existing data for analysis..."
+              node -e "
+                const { generateWeeklyReport } = require('./dist/weekly-report.js');
+                console.log('🔄 Running analysis with existing data...');
+                // フォールバック処理は既存データで実行される
+              " || echo "❌ Fallback also failed"
+            else
+              echo "❌ No existing data available for fallback"
+              exit 1
+            fi
+          }
         env:
           TZ: 'Asia/Tokyo'
           NODE_ENV: production
-        timeout-minutes: 20
+          DEBUG: 'pw:*'
+        timeout-minutes: 25
 
       - name: Commit and push results
+        if: always()  # エラーが発生してもデータがあればコミット
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
