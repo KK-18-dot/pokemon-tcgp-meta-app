@@ -52,7 +52,7 @@ jobs:
 
           📊 Environment-Adaptive Meta Score Analysis
           📅 Generated: $(date +'%Y/%m/%d %H:%M' --date='Asia/Tokyo')
-          🎯 Coverage: Tier 40 decks analysis
+          🎯 Coverage: 80% environment coverage analysis
           ⚔️ Matchup data: Full collection
           🤖 Generated with Claude Code"
           
@@ -62,12 +62,12 @@ jobs:
 
       - name: Create Release
         if: success()
-        uses: actions/create-release@v1
+        uses: softprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: weekly-${{ github.run_number }}
-          release_name: "週次環境分析レポート - ${{ github.run_date }}"
+          name: "週次環境分析レポート - ${{ github.run_date }}"
           body: |
             ## 🗓️ 週次ポケモンカード環境分析レポート
             
@@ -75,7 +75,7 @@ jobs:
             **環境適応型メタスコア算出法による分析**
             
             ### 📊 分析内容
-            - ✅ 40デッキ網羅的データ収集
+            - ✅ 80%カバレッジ対応データ収集
             - ✅ 全相性データ収集
             - ✅ 隠れ強デッキ発見
             - ✅ トーナメント推奨構成
@@ -91,7 +91,7 @@ jobs:
           prerelease: false
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: analysis-results-${{ github.run_number }}
           path: |
