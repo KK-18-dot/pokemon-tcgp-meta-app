@@ -3,13 +3,17 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+lerna-debug.log*
 
 # Production builds
 dist/
 build/
+out
 
 # Environment variables
 .env
+.env.*
+!.env.example
 .env.local
 .env.development.local
 .env.test.local
@@ -29,19 +33,83 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+.vscode-test
 
 # Logs
 logs/
+logs
 *.log
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache directories
+.cache/
+.parcel-cache
+.npm
+.eslintcache
+.stylelintcache
+.nyc_output
 
 # Browser data (Playwright)
 test-results/
 playwright-report/
 playwright/.cache/
 
+# Coverage
+coverage
+*.lcov
+
 # Temporary files
 *.tmp
 *.temp
+.temp
+
+# Build tools
+.grunt
+.fusebox/
+.next
+.nuxt
+.svelte-kit/
+.vuepress/dist
+**/.vitepress/dist
+**/.vitepress/cache
+.docusaurus
+.serverless/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+.node_repl_history
+
+# Package files
+*.tgz
+.yarn-integrity
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Specific to this project
+lib-cov
+bower_components
+jspm_packages/
+web_modules/
+.lock-wscript
+build/Release
+.dynamodb/
+.firebase/
+.tern-port
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
 
 # Keep data and reports (for GitHub Actions)
 # data/
