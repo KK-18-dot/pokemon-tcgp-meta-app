@@ -1,5 +1,11 @@
 name: Weekly Pokemon TCG Pocket Meta Analysis
 
+# GitHub Actions permissions
+permissions:
+  contents: write
+  actions: read
+  packages: read
+
 on:
   schedule:
     # 毎週金曜日15:00 JST (UTC: 6:00)
