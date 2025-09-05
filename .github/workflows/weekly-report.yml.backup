@@ -1,0 +1,89 @@
+name: Weekly Pokemon TCG Pocket Meta Analysis
+
+on:
+  schedule:
+    # 毎週金曜日15:00 JST (UTC: 6:00)
+    - cron: '0 6 * * 5'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  weekly-analysis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run weekly meta analysis
+        run: npm run weekly-report
+        env:
+          TZ: 'Asia/Tokyo'
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git add weekly-reports/
+          
+          # 変更があるかチェック
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          REPORT_DATE=$(date +'%Y-%m-%d' --date='Asia/Tokyo')
+          git commit -m "🗓️ Weekly Report: $REPORT_DATE
+
+          📊 Environment-Adaptive Meta Score Analysis
+          📅 Generated: $(date +'%Y/%m/%d %H:%M' --date='Asia/Tokyo')
+          🎯 Coverage: Tier 40 decks analysis
+          ⚔️ Matchup data: Full collection
+          🤖 Generated with Claude Code"
+          
+          git push
+        env:
+          TZ: 'Asia/Tokyo'
+
+      - name: Create Release
+        if: success()
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: weekly-${{ github.run_number }}
+          release_name: "週次環境分析レポート - ${{ github.run_date }}"
+          body: |
+            ## 🗓️ 週次ポケモンカード環境分析レポート
+            
+            **生成日時**: ${{ github.run_date }}
+            **環境適応型メタスコア算出法による分析**
+            
+            ### 📊 分析内容
+            - ✅ 40デッキ網羅的データ収集
+            - ✅ 全相性データ収集
+            - ✅ 隠れ強デッキ発見
+            - ✅ トーナメント推奨構成
+            
+            ### 📂 出力ファイル
+            - `data/latest_report.md` - 詳細分析レポート
+            - `data/latest.json` - 生データ
+            - `weekly-reports/` - 週次アーカイブ
+            
+            ---
+            🤖 *環境適応型メタスコア算出法による自動分析*
+          draft: false
+          prerelease: false

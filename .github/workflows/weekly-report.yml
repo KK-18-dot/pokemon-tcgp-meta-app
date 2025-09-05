@@ -1,0 +1,163 @@
+name: Weekly Pokemon TCG Pocket Meta Analysis
+
+on:
+  schedule:
+    # 毎週金曜日15:00 JST (UTC: 6:00)
+    - cron: '0 6 * * 5'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  weekly-analysis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run weekly meta analysis
+        run: npm run weekly-report
+        env:
+          TZ: 'Asia/Tokyo'
+          NODE_ENV: production
+        timeout-minutes: 20
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git add weekly-reports/
+          
+          # 変更があるかチェック
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          REPORT_DATE=$(date +'%Y-%m-%d' --date='Asia/Tokyo')
+          git commit -m "🗓️ Weekly Report: $REPORT_DATE
+
+          📊 Environment-Adaptive Meta Score Analysis
+          📅 Generated: $(date +'%Y/%m/%d %H:%M' --date='Asia/Tokyo')
+          🎯 Coverage: Tier 40 decks analysis
+          ⚔️ Matchup data: Full collection
+          🤖 Generated with Claude Code"
+          
+          git push
+        env:
+          TZ: 'Asia/Tokyo'
+
+      - name: Create Release
+        if: success()
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: weekly-${{ github.run_number }}
+          release_name: "週次環境分析レポート - ${{ github.run_date }}"
+          body: |
+            ## 🗓️ 週次ポケモンカード環境分析レポート
+            
+            **生成日時**: ${{ github.run_date }}
+            **環境適応型メタスコア算出法による分析**
+            
+            ### 📊 分析内容
+            - ✅ 40デッキ網羅的データ収集
+            - ✅ 全相性データ収集
+            - ✅ 隠れ強デッキ発見
+            - ✅ トーナメント推奨構成
+            
+            ### 📂 出力ファイル
+            - `data/latest_report.md` - 詳細分析レポート
+            - `data/latest.json` - 生データ
+            - `weekly-reports/` - 週次アーカイブ
+            
+            ---
+            🤖 *環境適応型メタスコア算出法による自動分析*
+          draft: false
+          prerelease: false
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: analysis-results-${{ github.run_number }}
+          path: |
+            data/*.json
+            data/*.md
+            data/*.csv
+            weekly-reports/*
+          retention-days: 90
+
+      - name: Clean old files
+        run: |
+          cd limitless-tcg-scraper
+          npm run clean
+          node -e "
+          const { DataStorage } = require('./dist/storage/database.js');
+          const storage = new DataStorage();
+          storage.cleanOldFiles(30).then(() => {
+            console.log('Old files cleaned');
+          }).catch(console.error);
+          "
+
+  # レポート品質チェック
+  quality-check:
+    needs: weekly-analysis
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Check report completeness
+      run: |
+        echo "Checking report completeness..."
+        cd limitless-tcg-scraper
+        
+        # レポートの必須要素をチェック
+        if [ -f "data/latest_report.md" ]; then
+          echo "✅ Report file exists"
+          
+          # 必須セクションの確認
+          grep -q "シェア網羅率" data/latest_report.md && echo "✅ Share coverage included" || echo "❌ Share coverage missing"
+          grep -q "Tier表" data/latest_report.md && echo "✅ Tier table included" || echo "❌ Tier table missing"
+          grep -q "環境適応型" data/latest_report.md && echo "✅ Environmental analysis included" || echo "❌ Environmental analysis missing"
+          
+          # データ完全性チェック
+          if [ -f "data/latest.json" ]; then
+            echo "Data completeness check:"
+            node -e "
+            const fs = require('fs');
+            try {
+              const data = JSON.parse(fs.readFileSync('data/latest.json', 'utf-8'));
+              console.log('Total decks:', data.decks?.length || 0);
+              console.log('Share coverage:', (data.coverage || 0).toFixed(2) + '%');
+              
+              if ((data.coverage || 0) >= 75) {
+                console.log('✅ Good coverage achieved (75%+)');
+              } else {
+                console.log('⚠️ Coverage below target (75%+)');
+              }
+            } catch (e) {
+              console.log('❌ Data format error:', e.message);
+              process.exit(1);
+            }
+            "
+          fi
+        else
+          echo "❌ Report file not found"
+          exit 1
+        fi

@@ -1,0 +1,9540 @@
+{
+  "decks": [
+    {
+      "rank": 1,
+      "name": "Suicune ex Greninja",
+      "count": 361,
+      "share": 14.39,
+      "score": "1076 - 875 - 23",
+      "winRate": 54.51,
+      "wins": 1076,
+      "losses": 875,
+      "ties": 23
+    },
+    {
+      "rank": 2,
+      "name": "Giratina ex Darkrai ex",
+      "count": 298,
+      "share": 11.88,
+      "score": "857 - 742 - 18",
+      "winRate": 53,
+      "wins": 857,
+      "losses": 742,
+      "ties": 18
+    },
+    {
+      "rank": 3,
+      "name": "Espeon ex Sylveon ex",
+      "count": 182,
+      "share": 7.25,
+      "score": "469 - 419 - 17",
+      "winRate": 51.82,
+      "wins": 469,
+      "losses": 419,
+      "ties": 17
+    },
+    {
+      "rank": 4,
+      "name": "Arceus ex Pichu",
+      "count": 105,
+      "share": 4.18,
+      "score": "250 - 239 - 5",
+      "winRate": 50.61,
+      "wins": 250,
+      "losses": 239,
+      "ties": 5
+    },
+    {
+      "rank": 5,
+      "name": "Suicune ex Giratina ex",
+      "count": 102,
+      "share": 4.07,
+      "score": "336 - 241 - 14",
+      "winRate": 56.85,
+      "wins": 336,
+      "losses": 241,
+      "ties": 14
+    },
+    {
+      "rank": 6,
+      "name": "Guzzlord ex",
+      "count": 79,
+      "share": 3.15,
+      "score": "248 - 201 - 8",
+      "winRate": 54.27,
+      "wins": 248,
+      "losses": 201,
+      "ties": 8
+    },
+    {
+      "rank": 7,
+      "name": "Greninja Oricorio",
+      "count": 77,
+      "share": 3.07,
+      "score": "192 - 175 - 7",
+      "winRate": 51.34,
+      "wins": 192,
+      "losses": 175,
+      "ties": 7
+    },
+    {
+      "rank": 8,
+      "name": "Buzzwole ex Pheromosa",
+      "count": 73,
+      "share": 2.91,
+      "score": "182 - 181 - 0",
+      "winRate": 50.14,
+      "wins": 182,
+      "losses": 181,
+      "ties": 0
+    },
+    {
+      "rank": 9,
+      "name": "Silvally Pichu",
+      "count": 71,
+      "share": 2.83,
+      "score": "180 - 183 - 3",
+      "winRate": 49.18,
+      "wins": 180,
+      "losses": 183,
+      "ties": 3
+    },
+    {
+      "rank": 10,
+      "name": "Flareon ex Eevee ex",
+      "count": 70,
+      "share": 2.79,
+      "score": "200 - 163 - 3",
+      "winRate": 54.64,
+      "wins": 200,
+      "losses": 163,
+      "ties": 3
+    },
+    {
+      "rank": 11,
+      "name": "Raikou ex Magnezone",
+      "count": 61,
+      "share": 2.43,
+      "score": "127 - 138 - 1",
+      "winRate": 47.74,
+      "wins": 127,
+      "losses": 138,
+      "ties": 1
+    },
+    {
+      "rank": 12,
+      "name": "Darkrai ex Arceus ex",
+      "count": 53,
+      "share": 2.11,
+      "score": "180 - 138 - 5",
+      "winRate": 55.73,
+      "wins": 180,
+      "losses": 138,
+      "ties": 5
+    },
+    {
+      "rank": 13,
+      "name": "Guzzlord ex Naganadel",
+      "count": 32,
+      "share": 1.28,
+      "score": "78 - 73 - 4",
+      "winRate": 50.32,
+      "wins": 78,
+      "losses": 73,
+      "ties": 4
+    },
+    {
+      "rank": 14,
+      "name": "Meowscarada",
+      "count": 28,
+      "share": 1.12,
+      "score": "49 - 62 - 0",
+      "winRate": 44.14,
+      "wins": 49,
+      "losses": 62,
+      "ties": 0
+    },
+    {
+      "rank": 15,
+      "name": "Dragonite ex Dragonite",
+      "count": 27,
+      "share": 1.08,
+      "score": "52 - 71 - 0",
+      "winRate": 42.28,
+      "wins": 52,
+      "losses": 71,
+      "ties": 0
+    },
+    {
+      "rank": 16,
+      "name": "Raikou ex Arceus ex",
+      "count": 24,
+      "share": 0.96,
+      "score": "60 - 57 - 1",
+      "winRate": 50.85,
+      "wins": 60,
+      "losses": 57,
+      "ties": 1
+    },
+    {
+      "rank": 17,
+      "name": "Silvally Oricorio",
+      "count": 24,
+      "share": 0.96,
+      "score": "53 - 55 - 2",
+      "winRate": 48.18,
+      "wins": 53,
+      "losses": 55,
+      "ties": 2
+    },
+    {
+      "rank": 18,
+      "name": "Charizard ex Sylveon ex",
+      "count": 24,
+      "share": 0.96,
+      "score": "24 - 58 - 0",
+      "winRate": 29.27,
+      "wins": 24,
+      "losses": 58,
+      "ties": 0
+    },
+    {
+      "rank": 19,
+      "name": "Arceus ex Oricorio",
+      "count": 20,
+      "share": 0.8,
+      "score": "36 - 41 - 1",
+      "winRate": 46.15,
+      "wins": 36,
+      "losses": 41,
+      "ties": 1
+    },
+    {
+      "rank": 20,
+      "name": "Silvally Rampardos",
+      "count": 18,
+      "share": 0.72,
+      "score": "75 - 53 - 4",
+      "winRate": 56.82,
+      "wins": 75,
+      "losses": 53,
+      "ties": 4
+    },
+    {
+      "rank": 21,
+      "name": "Sylveon ex Greninja",
+      "count": 17,
+      "share": 0.68,
+      "score": "39 - 42 - 2",
+      "winRate": 46.99,
+      "wins": 39,
+      "losses": 42,
+      "ties": 2
+    },
+    {
+      "rank": 22,
+      "name": "Donphan ex Lucario",
+      "count": 17,
+      "share": 0.68,
+      "score": "36 - 43 - 0",
+      "winRate": 45.57,
+      "wins": 36,
+      "losses": 43,
+      "ties": 0
+    },
+    {
+      "rank": 23,
+      "name": "Raikou ex Pikachu ex",
+      "count": 15,
+      "share": 0.6,
+      "score": "32 - 33 - 2",
+      "winRate": 47.76,
+      "wins": 32,
+      "losses": 33,
+      "ties": 2
+    },
+    {
+      "rank": 24,
+      "name": "Suicune ex Milotic",
+      "count": 14,
+      "share": 0.56,
+      "score": "31 - 39 - 1",
+      "winRate": 43.66,
+      "wins": 31,
+      "losses": 39,
+      "ties": 1
+    },
+    {
+      "rank": 25,
+      "name": "Buzzwole ex Celesteela",
+      "count": 14,
+      "share": 0.56,
+      "score": "30 - 38 - 1",
+      "winRate": 43.48,
+      "wins": 30,
+      "losses": 38,
+      "ties": 1
+    },
+    {
+      "rank": 26,
+      "name": "Donphan ex Rampardos",
+      "count": 13,
+      "share": 0.52,
+      "score": "34 - 30 - 1",
+      "winRate": 52.31,
+      "wins": 34,
+      "losses": 30,
+      "ties": 1
+    },
+    {
+      "rank": 27,
+      "name": "Dragonite ex Sylveon ex",
+      "count": 13,
+      "share": 0.52,
+      "score": "30 - 34 - 1",
+      "winRate": 46.15,
+      "wins": 30,
+      "losses": 34,
+      "ties": 1
+    },
+    {
+      "rank": 28,
+      "name": "Altaria Silvally",
+      "count": 12,
+      "share": 0.48,
+      "score": "22 - 31 - 0",
+      "winRate": 41.51,
+      "wins": 22,
+      "losses": 31,
+      "ties": 0
+    },
+    {
+      "rank": 29,
+      "name": "Poliwrath ex Politoed",
+      "count": 11,
+      "share": 0.44,
+      "score": "18 - 24 - 0",
+      "winRate": 42.86,
+      "wins": 18,
+      "losses": 24,
+      "ties": 0
+    },
+    {
+      "rank": 30,
+      "name": "Flareon ex Leafeon ex",
+      "count": 11,
+      "share": 0.44,
+      "score": "10 - 17 - 0",
+      "winRate": 37.04,
+      "wins": 10,
+      "losses": 17,
+      "ties": 0
+    },
+    {
+      "rank": 31,
+      "name": "Darkrai ex Miltank",
+      "count": 11,
+      "share": 0.44,
+      "score": "13 - 28 - 0",
+      "winRate": 31.71,
+      "wins": 13,
+      "losses": 28,
+      "ties": 0
+    },
+    {
+      "rank": 32,
+      "name": "Silvally Arceus ex",
+      "count": 10,
+      "share": 0.4,
+      "score": "25 - 25 - 1",
+      "winRate": 49.02,
+      "wins": 25,
+      "losses": 25,
+      "ties": 1
+    },
+    {
+      "rank": 33,
+      "name": "Suicune ex Gyarados",
+      "count": 10,
+      "share": 0.4,
+      "score": "12 - 26 - 0",
+      "winRate": 31.58,
+      "wins": 12,
+      "losses": 26,
+      "ties": 0
+    },
+    {
+      "rank": 34,
+      "name": "Guzzlord ex Nihilego",
+      "count": 9,
+      "share": 0.36,
+      "score": "27 - 19 - 1",
+      "winRate": 57.45,
+      "wins": 27,
+      "losses": 19,
+      "ties": 1
+    },
+    {
+      "rank": 35,
+      "name": "Arceus ex Tapu Koko ex",
+      "count": 9,
+      "share": 0.36,
+      "score": "23 - 21 - 0",
+      "winRate": 52.27,
+      "wins": 23,
+      "losses": 21,
+      "ties": 0
+    },
+    {
+      "rank": 36,
+      "name": "Pikachu ex Tapu Koko ex",
+      "count": 9,
+      "share": 0.36,
+      "score": "24 - 25 - 0",
+      "winRate": 48.98,
+      "wins": 24,
+      "losses": 25,
+      "ties": 0
+    },
+    {
+      "rank": 37,
+      "name": "Suicune ex Sylveon ex",
+      "count": 9,
+      "share": 0.36,
+      "score": "20 - 19 - 2",
+      "winRate": 48.78,
+      "wins": 20,
+      "losses": 19,
+      "ties": 2
+    },
+    {
+      "rank": 38,
+      "name": "Crobat ex Darkrai ex",
+      "count": 9,
+      "share": 0.36,
+      "score": "22 - 27 - 1",
+      "winRate": 44,
+      "wins": 22,
+      "losses": 27,
+      "ties": 1
+    },
+    {
+      "rank": 39,
+      "name": "Snorlax ex Ho-Oh ex",
+      "count": 9,
+      "share": 0.36,
+      "score": "9 - 22 - 1",
+      "winRate": 28.13,
+      "wins": 9,
+      "losses": 22,
+      "ties": 1
+    },
+    {
+      "rank": 40,
+      "name": "Greninja Suicune ex",
+      "count": 8,
+      "share": 0.32,
+      "score": "21 - 21 - 0",
+      "winRate": 50,
+      "wins": 21,
+      "losses": 21,
+      "ties": 0
+    }
+  ],
+  "matchups": [
+    {
+      "deck": "Suicune ex Greninja",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          49.08
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          43.05
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          49.62
+        ],
+        [
+          "Suicune ex Giratina ex",
+          55.77
+        ],
+        [
+          "Guzzlord ex",
+          37.18
+        ],
+        [
+          "Greninja Oricorio",
+          60.61
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          53.97
+        ],
+        [
+          "Flareon ex Eevee ex",
+          53.23
+        ],
+        [
+          "Silvally Pichu",
+          64.91
+        ],
+        [
+          "Arceus ex Pichu",
+          49.12
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          71.43
+        ],
+        [
+          "Raikou ex Magnezone",
+          45
+        ],
+        [
+          "Silvally Rampardos",
+          37.93
+        ],
+        [
+          "Raikou ex Arceus ex",
+          56
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          63.64
+        ],
+        [
+          "Dragonite ex Dragonite",
+          61.9
+        ],
+        [
+          "Silvally Oricorio",
+          55
+        ],
+        [
+          "Sylveon ex Greninja",
+          80
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          57.14
+        ],
+        [
+          "Donphan ex Lucario",
+          46.15
+        ],
+        [
+          "Suicune ex Milotic",
+          66.67
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          25
+        ],
+        [
+          "Arceus ex Oricorio",
+          72.73
+        ],
+        [
+          "Meowscarada",
+          63.64
+        ],
+        [
+          "Donphan ex Rampardos",
+          63.64
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          54.55
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          44.44
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          87.5
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          62.5
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          85.71
+        ],
+        [
+          "Altaria Silvally",
+          85.71
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          71.43
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          71.43
+        ],
+        [
+          "Leafeon ex Alolan Exeggutor",
+          71.43
+        ],
+        [
+          "Silvally Arceus ex",
+          57.14
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          57.14
+        ],
+        [
+          "Slurpuff Alcremie",
+          66.67
+        ],
+        [
+          "Lugia ex Altaria",
+          50
+        ],
+        [
+          "Silvally Pikachu ex",
+          50
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          50
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          40
+        ],
+        [
+          "Poliwrath ex Politoed",
+          40
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          40
+        ],
+        [
+          "Suicune ex Silvally",
+          20
+        ],
+        [
+          "Pikachu ex Pichu",
+          100
+        ],
+        [
+          "Espeon ex Eevee ex",
+          100
+        ],
+        [
+          "Pikachu ex",
+          100
+        ],
+        [
+          "Meowscarada Decidueye ex",
+          100
+        ],
+        [
+          "Raikou ex Luxray",
+          100
+        ],
+        [
+          "Suicune ex Primarina ex",
+          75
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          75
+        ],
+        [
+          "Meowscarada Tyrogue",
+          75
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          75
+        ],
+        [
+          "Solgaleo ex Suicune ex",
+          75
+        ],
+        [
+          "Moltres ex Entei ex",
+          50
+        ],
+        [
+          "Palkia ex Silvally",
+          50
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          50
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          50
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          50
+        ],
+        [
+          "Entei ex Magby",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Magnezone Raikou ex",
+          100
+        ],
+        [
+          "Poliwrath ex Garchomp",
+          100
+        ],
+        [
+          "Porygon-Z Pichu",
+          100
+        ],
+        [
+          "Miltank",
+          100
+        ],
+        [
+          "Sylveon ex Suicune ex",
+          66.67
+        ],
+        [
+          "Dragonite ex Pichu",
+          66.67
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          66.67
+        ],
+        [
+          "Silvally Darkrai ex",
+          66.67
+        ],
+        [
+          "Luxray Oricorio",
+          66.67
+        ],
+        [
+          "Pikachu ex Raikou ex",
+          66.67
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          66.67
+        ],
+        [
+          "Flareon ex Jolteon",
+          66.67
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          66.67
+        ],
+        [
+          "Weavile ex Darkrai ex",
+          66.67
+        ],
+        [
+          "Raikou ex Oricorio",
+          33.33
+        ],
+        [
+          "Giratina ex",
+          33.33
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          33.33
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          33.33
+        ],
+        [
+          "Suicune ex Palkia ex",
+          0
+        ],
+        [
+          "Poliwrath ex Lucario",
+          0
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Giratina ex Mewtwo ex",
+          0
+        ],
+        [
+          "Arceus ex Zapdos ex",
+          100
+        ],
+        [
+          "Garchomp Giratina ex",
+          100
+        ],
+        [
+          "Suicune ex Gyarados",
+          100
+        ],
+        [
+          "Magnezone Oricorio",
+          100
+        ],
+        [
+          "Milotic Suicune ex",
+          100
+        ],
+        [
+          "Lugia ex Silvally",
+          100
+        ],
+        [
+          "Jumpluff ex Arceus ex",
+          100
+        ],
+        [
+          "Starmie ex Milotic",
+          100
+        ],
+        [
+          "Marowak ex Dugtrio",
+          100
+        ],
+        [
+          "Donphan ex Dugtrio",
+          100
+        ],
+        [
+          "Incineroar ex Sylveon ex",
+          100
+        ],
+        [
+          "Porygon-Z Mantyke",
+          100
+        ],
+        [
+          "Darkrai ex Silvally",
+          100
+        ],
+        [
+          "Moltres ex Charizard ex",
+          100
+        ],
+        [
+          "Charizard ex Moltres ex",
+          100
+        ],
+        [
+          "Gyarados Suicune ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Arceus ex",
+          100
+        ],
+        [
+          "Greninja Darkrai ex",
+          100
+        ],
+        [
+          "Electivire Pichu",
+          100
+        ],
+        [
+          "Raikou ex Ampharos",
+          100
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          100
+        ],
+        [
+          "Infernape ex Entei ex",
+          100
+        ],
+        [
+          "Garchomp ex Rampardos",
+          50
+        ],
+        [
+          "Entei ex Flareon ex",
+          50
+        ],
+        [
+          "Suicune ex Magnezone",
+          50
+        ],
+        [
+          "Crobat ex Sylveon ex",
+          50
+        ],
+        [
+          "Tinkaton ex Pichu",
+          50
+        ],
+        [
+          "Decidueye ex",
+          50
+        ],
+        [
+          "Gyarados ex Suicune ex",
+          50
+        ],
+        [
+          "Sylveon ex Eevee ex",
+          50
+        ],
+        [
+          "Sylveon ex Togekiss",
+          50
+        ],
+        [
+          "Palkia ex Blastoise ex",
+          50
+        ],
+        [
+          "Primarina ex Suicune ex",
+          50
+        ],
+        [
+          "Alolan Exeggutor Tsareena",
+          50
+        ],
+        [
+          "Silvally Zeraora",
+          50
+        ],
+        [
+          "Giratina ex Greninja",
+          50
+        ],
+        [
+          "Dugtrio Lucario",
+          50
+        ],
+        [
+          "Alolan Raichu ex Tapu Koko ex",
+          50
+        ],
+        [
+          "Magcargo",
+          50
+        ],
+        [
+          "Darkrai ex Giratina ex",
+          0
+        ],
+        [
+          "Darkrai ex Zoroark",
+          0
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          0
+        ],
+        [
+          "Arceus ex Raikou ex",
+          100
+        ],
+        [
+          "Glaceon ex Palkia ex",
+          100
+        ],
+        [
+          "Suicune ex Suicune",
+          100
+        ],
+        [
+          "Altaria Darkrai ex",
+          100
+        ],
+        [
+          "Flareon ex Flareon",
+          100
+        ],
+        [
+          "Jumpluff ex Sylveon ex",
+          100
+        ],
+        [
+          "Arceus ex Alolan Raichu ex",
+          100
+        ],
+        [
+          "Luxray Galvantula",
+          100
+        ],
+        [
+          "Jumpluff ex Raikou ex",
+          100
+        ],
+        [
+          "Sylveon ex Mew ex",
+          100
+        ],
+        [
+          "Luxray Pichu",
+          100
+        ],
+        [
+          "Darkrai ex Tyranitar",
+          100
+        ],
+        [
+          "Umbreon ex Darkrai ex",
+          100
+        ],
+        [
+          "Donphan ex Silvally",
+          100
+        ],
+        [
+          "Gallade ex Hitmontop",
+          100
+        ],
+        [
+          "Giratina ex Latias",
+          100
+        ],
+        [
+          "Silvally",
+          100
+        ],
+        [
+          "Donphan ex Tyrogue",
+          100
+        ],
+        [
+          "Crawdaunt Suicune ex",
+          100
+        ],
+        [
+          "Darkrai ex Igglybuff",
+          100
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          100
+        ],
+        [
+          "Skarmory ex Skarmory",
+          100
+        ],
+        [
+          "Solgaleo ex Galarian Cursola",
+          100
+        ],
+        [
+          "Poliwrath ex Suicune ex",
+          100
+        ],
+        [
+          "Eevee ex Giratina ex",
+          100
+        ],
+        [
+          "Lanturn ex Oricorio",
+          100
+        ],
+        [
+          "Sylveon ex Altaria",
+          100
+        ],
+        [
+          "Blastoise ex Swanna",
+          100
+        ],
+        [
+          "Decidueye ex Lurantis",
+          100
+        ],
+        [
+          "Alolan Raichu ex Darkrai ex",
+          100
+        ],
+        [
+          "Sylveon ex Lugia ex",
+          100
+        ],
+        [
+          "Buzzwole ex Shuckle ex",
+          100
+        ],
+        [
+          "Porygon-Z Crawdaunt",
+          100
+        ],
+        [
+          "Suicune ex Primarina",
+          100
+        ],
+        [
+          "Infernape ex Flareon ex",
+          100
+        ],
+        [
+          "Umbreon ex Sylveon ex",
+          100
+        ],
+        [
+          "Donphan ex Sudowoodo",
+          100
+        ],
+        [
+          "Sylveon ex Leafeon ex",
+          100
+        ],
+        [
+          "Mismagius ex Shiinotic",
+          100
+        ],
+        [
+          "Greninja Articuno ex",
+          100
+        ],
+        [
+          "Decidueye ex Suicune ex",
+          100
+        ],
+        [
+          "Kingdra ex Sylveon ex",
+          100
+        ],
+        [
+          "Incineroar ex Entei ex",
+          100
+        ],
+        [
+          "Flareon ex Magby",
+          100
+        ],
+        [
+          "Gyarados ex Gyarados",
+          100
+        ],
+        [
+          "Meowscarada Pheromosa",
+          100
+        ],
+        [
+          "Galarian Cursola Mismagius",
+          100
+        ],
+        [
+          "Kingdra ex Milotic",
+          100
+        ],
+        [
+          "Sylveon ex Stoutland",
+          100
+        ],
+        [
+          "Paldean Clodsire ex Nihilego",
+          100
+        ],
+        [
+          "Donphan ex Lycanroc",
+          100
+        ],
+        [
+          "Infernape ex Silvally",
+          100
+        ],
+        [
+          "Wugtrio ex Suicune ex",
+          0
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          0
+        ],
+        [
+          "Mismagius ex Giratina ex",
+          0
+        ],
+        [
+          "Electivire Raikou ex",
+          0
+        ],
+        [
+          "Altaria Arceus ex",
+          0
+        ],
+        [
+          "Garchomp ex Garchomp",
+          0
+        ],
+        [
+          "Blastoise ex Blastoise",
+          0
+        ],
+        [
+          "Rampardos",
+          0
+        ],
+        [
+          "Suicune ex Gyarados ex",
+          0
+        ],
+        [
+          "Decidueye ex Decidueye",
+          0
+        ],
+        [
+          "Greninja Giratina ex",
+          0
+        ],
+        [
+          "Guzzlord ex Tyranitar",
+          0
+        ],
+        [
+          "Arceus ex Lucario ex",
+          0
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          0
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Entei ex Charizard ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Giratina ex Darkrai ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          56.27
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          48.57
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          58.97
+        ],
+        [
+          "Suicune ex Giratina ex",
+          41.77
+        ],
+        [
+          "Guzzlord ex",
+          53.97
+        ],
+        [
+          "Flareon ex Eevee ex",
+          40.98
+        ],
+        [
+          "Arceus ex Pichu",
+          54.39
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          41.18
+        ],
+        [
+          "Silvally Pichu",
+          38
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          46.94
+        ],
+        [
+          "Greninja Oricorio",
+          19.15
+        ],
+        [
+          "Raikou ex Magnezone",
+          62.86
+        ],
+        [
+          "Silvally Rampardos",
+          45
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          60
+        ],
+        [
+          "Silvally Oricorio",
+          42.86
+        ],
+        [
+          "Sylveon ex Greninja",
+          75
+        ],
+        [
+          "Meowscarada",
+          41.67
+        ],
+        [
+          "Suicune ex Milotic",
+          63.64
+        ],
+        [
+          "Raikou ex Arceus ex",
+          54.55
+        ],
+        [
+          "Dragonite ex Dragonite",
+          45.45
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          27.27
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          60
+        ],
+        [
+          "Arceus ex Oricorio",
+          60
+        ],
+        [
+          "Silvally Arceus ex",
+          50
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          40
+        ],
+        [
+          "Donphan ex Lucario",
+          77.78
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          55.56
+        ],
+        [
+          "Suicune ex Silvally",
+          87.5
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          75
+        ],
+        [
+          "Altaria Silvally",
+          62.5
+        ],
+        [
+          "Donphan ex Rampardos",
+          37.5
+        ],
+        [
+          "Arceus ex Lucario ex",
+          71.43
+        ],
+        [
+          "Slurpuff Alcremie",
+          83.33
+        ],
+        [
+          "Greninja Suicune ex",
+          33.33
+        ],
+        [
+          "Magnezone Raikou ex",
+          80
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          80
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          60
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          60
+        ],
+        [
+          "Giratina ex",
+          60
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          60
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          40
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          20
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          100
+        ],
+        [
+          "Poliwrath ex Lucario",
+          100
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          0
+        ],
+        [
+          "Pikachu ex",
+          75
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          75
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          50
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          50
+        ],
+        [
+          "Sylveon ex Stoutland",
+          50
+        ],
+        [
+          "Espeon ex Eevee ex",
+          25
+        ],
+        [
+          "Leafeon ex Alolan Exeggutor",
+          25
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          25
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          100
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          100
+        ],
+        [
+          "Suicune ex Gyarados",
+          100
+        ],
+        [
+          "Darkrai ex Zoroark",
+          100
+        ],
+        [
+          "Magcargo",
+          100
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          100
+        ],
+        [
+          "Poliwrath ex Politoed",
+          66.67
+        ],
+        [
+          "Miltank",
+          66.67
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          66.67
+        ],
+        [
+          "Silvally Pikachu ex",
+          33.33
+        ],
+        [
+          "Silvally Darkrai ex",
+          0
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          0
+        ],
+        [
+          "Giratina ex Galarian Cursola",
+          100
+        ],
+        [
+          "Suicune ex Primarina ex",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          100
+        ],
+        [
+          "Gyarados ex Mantyke",
+          100
+        ],
+        [
+          "Suicune ex Palkia ex",
+          100
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          100
+        ],
+        [
+          "Sylveon ex Eevee ex",
+          100
+        ],
+        [
+          "Flareon ex Jolteon",
+          100
+        ],
+        [
+          "Venusaur ex",
+          100
+        ],
+        [
+          "Suicune ex Arceus ex",
+          100
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          100
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          100
+        ],
+        [
+          "Crobat ex Sylveon ex",
+          50
+        ],
+        [
+          "Jumpluff ex Zeraora",
+          50
+        ],
+        [
+          "Primarina ex Suicune ex",
+          50
+        ],
+        [
+          "Lanturn ex Oricorio",
+          50
+        ],
+        [
+          "Alolan Exeggutor Tsareena",
+          50
+        ],
+        [
+          "Greninja Giratina ex",
+          50
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          50
+        ],
+        [
+          "Decidueye ex Suicune ex",
+          50
+        ],
+        [
+          "Meowscarada Beedrill ex",
+          50
+        ],
+        [
+          "Incineroar ex Sylveon ex",
+          50
+        ],
+        [
+          "Decidueye ex Tsareena",
+          50
+        ],
+        [
+          "Entei ex Magby",
+          0
+        ],
+        [
+          "Lugia ex Altaria",
+          0
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          0
+        ],
+        [
+          "Meowscarada Kartana",
+          0
+        ],
+        [
+          "Sylveon ex Leafeon ex",
+          0
+        ],
+        [
+          "Dragonite ex Suicune ex",
+          0
+        ],
+        [
+          "Solgaleo ex Suicune ex",
+          0
+        ],
+        [
+          "Pikachu ex Pichu",
+          0
+        ],
+        [
+          "Charizard ex Moltres ex",
+          100
+        ],
+        [
+          "Aerodactyl ex Rampardos",
+          100
+        ],
+        [
+          "Entei ex Flareon ex",
+          100
+        ],
+        [
+          "Crabominable ex Milotic",
+          100
+        ],
+        [
+          "Altaria Darkrai ex",
+          100
+        ],
+        [
+          "Blastoise ex Blastoise",
+          100
+        ],
+        [
+          "Jumpluff ex Sylveon ex",
+          100
+        ],
+        [
+          "Poliwrath ex Suicune ex",
+          100
+        ],
+        [
+          "Leafeon ex Celebi ex",
+          100
+        ],
+        [
+          "Mismagius ex Sylveon ex",
+          100
+        ],
+        [
+          "Wugtrio ex Suicune ex",
+          100
+        ],
+        [
+          "Umbreon ex Umbreon",
+          100
+        ],
+        [
+          "Luxray Galvantula",
+          100
+        ],
+        [
+          "Zoroark Silvally",
+          100
+        ],
+        [
+          "Porygon-Z Stoutland",
+          100
+        ],
+        [
+          "Magnezone Oricorio",
+          100
+        ],
+        [
+          "Donphan ex Silvally",
+          100
+        ],
+        [
+          "Sylveon ex Suicune ex",
+          100
+        ],
+        [
+          "Silvally Suicune ex",
+          100
+        ],
+        [
+          "Jumpluff ex Leafeon ex",
+          100
+        ],
+        [
+          "Eevee ex Espeon ex",
+          100
+        ],
+        [
+          "Crawdaunt Suicune ex",
+          100
+        ],
+        [
+          "Palkia ex Mantyke",
+          100
+        ],
+        [
+          "Raikou ex Luxray",
+          100
+        ],
+        [
+          "Sylveon ex Aerodactyl",
+          100
+        ],
+        [
+          "Milotic Suicune ex",
+          100
+        ],
+        [
+          "Rayquaza ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Jumpluff ex Arceus ex",
+          100
+        ],
+        [
+          "Sylveon ex Mismagius",
+          100
+        ],
+        [
+          "Solgaleo ex Drampa",
+          100
+        ],
+        [
+          "Marowak ex Dugtrio",
+          100
+        ],
+        [
+          "Suicune ex Magnezone",
+          100
+        ],
+        [
+          "Slowking Articuno ex",
+          100
+        ],
+        [
+          "Ho-Oh ex Dragonite ex",
+          100
+        ],
+        [
+          "Decidueye ex Decidueye",
+          100
+        ],
+        [
+          "Porygon-Z Crawdaunt",
+          100
+        ],
+        [
+          "Buzzwole ex Shuckle ex",
+          100
+        ],
+        [
+          "Suicune ex Gyarados ex",
+          100
+        ],
+        [
+          "Guzzlord ex Tyranitar",
+          100
+        ],
+        [
+          "Marowak ex Rampardos",
+          100
+        ],
+        [
+          "Umbreon ex Sylveon ex",
+          100
+        ],
+        [
+          "Ho-Oh ex Lugia ex",
+          100
+        ],
+        [
+          "Garchomp Mantyke",
+          100
+        ],
+        [
+          "Dugtrio Lucario",
+          100
+        ],
+        [
+          "Giratina ex Greninja",
+          100
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          100
+        ],
+        [
+          "Meowscarada Shuckle ex",
+          100
+        ],
+        [
+          "Sylveon ex Magnezone",
+          100
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          100
+        ],
+        [
+          "Alolan Raichu ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Jumpluff ex Greninja",
+          100
+        ],
+        [
+          "Greninja Darkrai ex",
+          100
+        ],
+        [
+          "Beedrill ex Beedrill",
+          100
+        ],
+        [
+          "Altaria Mantyke",
+          100
+        ],
+        [
+          "Toucannon",
+          100
+        ],
+        [
+          "Electivire Pichu",
+          100
+        ],
+        [
+          "Galarian Cursola Mismagius",
+          100
+        ],
+        [
+          "Leafeon ex Meowscarada",
+          100
+        ],
+        [
+          "Incineroar ex Entei ex",
+          100
+        ],
+        [
+          "Kingdra ex Milotic",
+          100
+        ],
+        [
+          "Lucario ex Dugtrio",
+          100
+        ],
+        [
+          "Giratina ex Mewtwo ex",
+          100
+        ],
+        [
+          "Entei ex Charizard ex",
+          100
+        ],
+        [
+          "Moltres ex Charizard ex",
+          100
+        ],
+        [
+          "Infernape ex Silvally",
+          100
+        ],
+        [
+          "Paldean Clodsire ex Absol",
+          0
+        ],
+        [
+          "Palkia ex Silvally",
+          0
+        ],
+        [
+          "Glaceon ex Palkia ex",
+          0
+        ],
+        [
+          "Jumpluff ex Raikou ex",
+          0
+        ],
+        [
+          "Donphan ex Tyrogue",
+          0
+        ],
+        [
+          "Darkrai ex Silvally",
+          0
+        ],
+        [
+          "Electivire Raikou ex",
+          0
+        ],
+        [
+          "Flareon ex Entei ex",
+          0
+        ],
+        [
+          "Darkrai ex Umbreon ex",
+          0
+        ],
+        [
+          "Decidueye ex Lurantis",
+          0
+        ],
+        [
+          "Starmie ex Milotic",
+          0
+        ],
+        [
+          "Crobat ex Nihilego",
+          0
+        ],
+        [
+          "Gallade ex",
+          0
+        ],
+        [
+          "Jumpluff ex Snorlax ex",
+          0
+        ],
+        [
+          "Meowscarada Decidueye ex",
+          0
+        ],
+        [
+          "Butterfree Alolan Exeggutor",
+          0
+        ],
+        [
+          "Infernape ex Entei ex",
+          0
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          0
+        ],
+        [
+          "Jumpluff ex Celebi ex",
+          0
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          0
+        ],
+        [
+          "Weavile ex Darkrai ex",
+          0
+        ],
+        [
+          "Flareon ex Magby",
+          0
+        ],
+        [
+          "Sylveon ex Togekiss",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Espeon ex Sylveon ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          49.62
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          41.03
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          45.1
+        ],
+        [
+          "Suicune ex Giratina ex",
+          28.3
+        ],
+        [
+          "Arceus ex Pichu",
+          47.37
+        ],
+        [
+          "Greninja Oricorio",
+          72.97
+        ],
+        [
+          "Silvally Pichu",
+          51.52
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          51.72
+        ],
+        [
+          "Flareon ex Eevee ex",
+          40.91
+        ],
+        [
+          "Guzzlord ex",
+          14.29
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          35
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          60
+        ],
+        [
+          "Raikou ex Magnezone",
+          69.23
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          77.78
+        ],
+        [
+          "Arceus ex Oricorio",
+          55.56
+        ],
+        [
+          "Raikou ex Arceus ex",
+          75
+        ],
+        [
+          "Suicune ex Milotic",
+          50
+        ],
+        [
+          "Donphan ex Rampardos",
+          85.71
+        ],
+        [
+          "Sylveon ex Greninja",
+          57.14
+        ],
+        [
+          "Donphan ex Lucario",
+          83.33
+        ],
+        [
+          "Dragonite ex Dragonite",
+          83.33
+        ],
+        [
+          "Flareon ex Jolteon",
+          50
+        ],
+        [
+          "Poliwrath ex Politoed",
+          80
+        ],
+        [
+          "Suicune ex Gyarados",
+          80
+        ],
+        [
+          "Meowscarada",
+          80
+        ],
+        [
+          "Silvally Oricorio",
+          60
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          60
+        ],
+        [
+          "Silvally Rampardos",
+          40
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          100
+        ],
+        [
+          "Gallade ex Rampardos",
+          75
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          75
+        ],
+        [
+          "Darkrai ex Miltank",
+          75
+        ],
+        [
+          "Lugia ex Altaria",
+          50
+        ],
+        [
+          "Electivire Raikou ex",
+          50
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          50
+        ],
+        [
+          "Entei ex Flareon ex",
+          25
+        ],
+        [
+          "Ho-Oh ex Dragonite ex",
+          100
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          100
+        ],
+        [
+          "Suicune ex Palkia ex",
+          66.67
+        ],
+        [
+          "Entei ex Magby",
+          66.67
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          66.67
+        ],
+        [
+          "Crobat ex Sylveon ex",
+          66.67
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          66.67
+        ],
+        [
+          "Giratina ex Greninja",
+          66.67
+        ],
+        [
+          "Infernape ex Entei ex",
+          66.67
+        ],
+        [
+          "Suicune ex Silvally",
+          33.33
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          33.33
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          33.33
+        ],
+        [
+          "Slowking Articuno ex",
+          100
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          100
+        ],
+        [
+          "Magcargo",
+          100
+        ],
+        [
+          "Suicune ex Gyarados ex",
+          100
+        ],
+        [
+          "Decidueye ex Decidueye",
+          100
+        ],
+        [
+          "Silvally Zeraora",
+          100
+        ],
+        [
+          "Palkia ex Silvally",
+          50
+        ],
+        [
+          "Tapu Koko ex Arceus ex",
+          50
+        ],
+        [
+          "Silvally Darkrai ex",
+          50
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          50
+        ],
+        [
+          "Altaria Silvally",
+          50
+        ],
+        [
+          "Porygon-Z Stoutland",
+          50
+        ],
+        [
+          "Rayquaza ex Ho-Oh ex",
+          50
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          50
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          50
+        ],
+        [
+          "Wugtrio ex Suicune ex",
+          0
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          0
+        ],
+        [
+          "Jumpluff ex Sylveon ex",
+          100
+        ],
+        [
+          "Aerodactyl ex Dugtrio",
+          100
+        ],
+        [
+          "Raikou ex Boltund",
+          100
+        ],
+        [
+          "Poliwrath ex Suicune ex",
+          100
+        ],
+        [
+          "Buzzwole ex Altaria",
+          100
+        ],
+        [
+          "Mismagius ex Giratina ex",
+          100
+        ],
+        [
+          "Paldean Clodsire ex Absol",
+          100
+        ],
+        [
+          "Incineroar ex",
+          100
+        ],
+        [
+          "Charizard ex Moltres ex",
+          100
+        ],
+        [
+          "Espeon ex Eevee ex",
+          100
+        ],
+        [
+          "Luxray Oricorio",
+          100
+        ],
+        [
+          "Jumpluff ex Infernape ex",
+          100
+        ],
+        [
+          "Gallade ex Hitmontop",
+          100
+        ],
+        [
+          "Donphan ex Tyrogue",
+          100
+        ],
+        [
+          "Umbreon ex Darkrai ex",
+          100
+        ],
+        [
+          "Jumpluff ex Zeraora",
+          100
+        ],
+        [
+          "Jumpluff ex Leafeon ex",
+          100
+        ],
+        [
+          "Kingdra ex Suicune ex",
+          100
+        ],
+        [
+          "Garchomp ex Garchomp",
+          100
+        ],
+        [
+          "Giratina ex Latias",
+          100
+        ],
+        [
+          "Meowscarada Tyrogue",
+          100
+        ],
+        [
+          "Milotic Suicune ex",
+          100
+        ],
+        [
+          "Altaria Arceus ex",
+          100
+        ],
+        [
+          "Lanturn ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Flareon ex Entei ex",
+          100
+        ],
+        [
+          "Sylveon ex Eevee ex",
+          100
+        ],
+        [
+          "Blastoise ex Blastoise",
+          100
+        ],
+        [
+          "Sylveon ex Ampharos",
+          100
+        ],
+        [
+          "Silvally Pikachu ex",
+          100
+        ],
+        [
+          "Primarina ex Suicune ex",
+          100
+        ],
+        [
+          "Tinkaton ex Pichu",
+          100
+        ],
+        [
+          "Alolan Exeggutor Tsareena",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Sylveon ex Lugia ex",
+          100
+        ],
+        [
+          "Miltank",
+          100
+        ],
+        [
+          "Starmie ex Milotic",
+          100
+        ],
+        [
+          "Incineroar ex Sylveon ex",
+          100
+        ],
+        [
+          "Silvally Arceus ex",
+          100
+        ],
+        [
+          "Silvally Magby",
+          100
+        ],
+        [
+          "Electivire Pichu",
+          100
+        ],
+        [
+          "Gyarados ex Mantyke",
+          100
+        ],
+        [
+          "Dragonite ex Suicune ex",
+          100
+        ],
+        [
+          "Slurpuff Alcremie",
+          100
+        ],
+        [
+          "Arceus ex Lucario ex",
+          100
+        ],
+        [
+          "Solgaleo ex Skarmory",
+          100
+        ],
+        [
+          "Jumpluff ex Celebi ex",
+          100
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Flareon ex Flareon",
+          100
+        ],
+        [
+          "Donphan ex Silvally",
+          0
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Crabominable ex Milotic",
+          0
+        ],
+        [
+          "Luxray Galvantula",
+          0
+        ],
+        [
+          "Sylveon ex Mew ex",
+          0
+        ],
+        [
+          "Sylveon ex Suicune ex",
+          0
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          0
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          0
+        ],
+        [
+          "Giratina ex",
+          0
+        ],
+        [
+          "Guzzlord ex Darkrai ex",
+          0
+        ],
+        [
+          "Donphan ex Dugtrio",
+          0
+        ],
+        [
+          "Suicune ex Primarina ex",
+          0
+        ],
+        [
+          "Kingdra ex Greninja",
+          0
+        ],
+        [
+          "Darkrai ex Zoroark",
+          0
+        ],
+        [
+          "Infernape ex Flareon ex",
+          0
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          0
+        ],
+        [
+          "Gengar ex Sylveon ex",
+          0
+        ],
+        [
+          "Raikou ex Decidueye ex",
+          0
+        ],
+        [
+          "Kingdra ex Sylveon ex",
+          0
+        ],
+        [
+          "Silvally Raikou ex",
+          0
+        ],
+        [
+          "Gyarados ex Suicune ex",
+          0
+        ],
+        [
+          "Greninja Suicune ex",
+          0
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          0
+        ],
+        [
+          "Wigglytuff ex Eevee ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Arceus ex Pichu",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          47.37
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          43.86
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          50
+        ],
+        [
+          "Arceus ex Pichu",
+          50
+        ],
+        [
+          "Silvally Pichu",
+          40.91
+        ],
+        [
+          "Suicune ex Giratina ex",
+          42.11
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          27.78
+        ],
+        [
+          "Greninja Oricorio",
+          37.5
+        ],
+        [
+          "Guzzlord ex",
+          60
+        ],
+        [
+          "Raikou ex Magnezone",
+          53.33
+        ],
+        [
+          "Flareon ex Eevee ex",
+          46.67
+        ],
+        [
+          "Silvally Oricorio",
+          44.44
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          37.5
+        ],
+        [
+          "Dragonite ex Dragonite",
+          71.43
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          50
+        ],
+        [
+          "Meowscarada",
+          80
+        ],
+        [
+          "Sylveon ex Greninja",
+          40
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          40
+        ],
+        [
+          "Silvally Rampardos",
+          40
+        ],
+        [
+          "Raikou ex Arceus ex",
+          20
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          75
+        ],
+        [
+          "Donphan ex Lucario",
+          25
+        ],
+        [
+          "Charizard ex Moltres ex",
+          100
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          66.67
+        ],
+        [
+          "Suicune ex Primarina ex",
+          66.67
+        ],
+        [
+          "Darkrai ex Miltank",
+          33.33
+        ],
+        [
+          "Poliwrath ex Lucario",
+          33.33
+        ],
+        [
+          "Garchomp ex Rampardos",
+          100
+        ],
+        [
+          "Entei ex Flareon ex",
+          100
+        ],
+        [
+          "Magnezone Raikou ex",
+          100
+        ],
+        [
+          "Miltank",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          100
+        ],
+        [
+          "Altaria Silvally",
+          100
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          100
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          100
+        ],
+        [
+          "Solgaleo ex Suicune ex",
+          100
+        ],
+        [
+          "Silvally Darkrai ex",
+          50
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          50
+        ],
+        [
+          "Arceus ex Raikou ex",
+          50
+        ],
+        [
+          "Poliwrath ex Politoed",
+          50
+        ],
+        [
+          "Palkia ex Silvally",
+          50
+        ],
+        [
+          "Sylveon ex Giratina ex",
+          50
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          50
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          50
+        ],
+        [
+          "Suicune ex Silvally",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Crobat ex Sylveon ex",
+          0
+        ],
+        [
+          "Arceus ex Oricorio",
+          0
+        ],
+        [
+          "Giratina ex Greninja",
+          0
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          0
+        ],
+        [
+          "Lucario Rampardos",
+          100
+        ],
+        [
+          "Silvally Arceus ex",
+          100
+        ],
+        [
+          "Naganadel Darkrai ex",
+          100
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Suicune ex Magnezone",
+          100
+        ],
+        [
+          "Suicune ex Palkia ex",
+          100
+        ],
+        [
+          "Suicune ex Suicune",
+          100
+        ],
+        [
+          "Aerodactyl ex Dugtrio",
+          100
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          100
+        ],
+        [
+          "Sylveon ex Togekiss",
+          100
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Magnezone Oricorio",
+          100
+        ],
+        [
+          "Electivire Raikou ex",
+          100
+        ],
+        [
+          "Crobat ex Arceus ex",
+          100
+        ],
+        [
+          "Flareon ex Entei ex",
+          100
+        ],
+        [
+          "Ho-Oh ex Dragonite ex",
+          100
+        ],
+        [
+          "Gallade ex Sylveon ex",
+          100
+        ],
+        [
+          "Solgaleo ex Silvally",
+          100
+        ],
+        [
+          "Palkia ex Blastoise ex",
+          100
+        ],
+        [
+          "Blastoise ex Blastoise",
+          100
+        ],
+        [
+          "Rampardos",
+          100
+        ],
+        [
+          "Gyarados ex Suicune ex",
+          100
+        ],
+        [
+          "Crobat ex Nihilego",
+          100
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          100
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          0
+        ],
+        [
+          "Jumpluff ex Snorlax ex",
+          100
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          100
+        ],
+        [
+          "Ho-Oh ex Lugia ex",
+          100
+        ],
+        [
+          "Alolan Raichu ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Sylveon ex Eevee ex",
+          100
+        ],
+        [
+          "Sylveon ex Magnezone",
+          100
+        ],
+        [
+          "Luxray Pichu",
+          100
+        ],
+        [
+          "Raikou ex Ampharos",
+          100
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          100
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          100
+        ],
+        [
+          "Dragonite ex Suicune ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          100
+        ],
+        [
+          "Jumpluff ex Zeraora",
+          100
+        ],
+        [
+          "Giratina ex Mewtwo ex",
+          100
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          100
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          100
+        ],
+        [
+          "Sylveon ex Stoutland",
+          100
+        ],
+        [
+          "Paldean Clodsire ex Nihilego",
+          100
+        ],
+        [
+          "Decidueye ex Tsareena",
+          100
+        ],
+        [
+          "Umbreon ex Darkrai ex",
+          0
+        ],
+        [
+          "Porygon-Z Stoutland",
+          0
+        ],
+        [
+          "Suicune ex Milotic",
+          0
+        ],
+        [
+          "Arceus ex Crobat",
+          0
+        ],
+        [
+          "Sylveon ex Ampharos",
+          0
+        ],
+        [
+          "Rampardos Silvally",
+          0
+        ],
+        [
+          "Silvally Pikachu ex",
+          0
+        ],
+        [
+          "Skarmory ex Skarmory",
+          0
+        ],
+        [
+          "Espeon ex Eevee ex",
+          0
+        ],
+        [
+          "Porygon-Z Pichu",
+          0
+        ],
+        [
+          "Rayquaza ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Leafeon ex Alolan Exeggutor",
+          0
+        ],
+        [
+          "Decidueye ex Decidueye",
+          0
+        ],
+        [
+          "Darkrai ex Silvally",
+          0
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          0
+        ],
+        [
+          "Sylveon ex Leafeon ex",
+          0
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Slurpuff Alcremie",
+          0
+        ],
+        [
+          "Pikachu ex Pichu",
+          0
+        ],
+        [
+          "Electivire Pichu",
+          0
+        ],
+        [
+          "Suicune ex Arceus ex",
+          0
+        ],
+        [
+          "Entei ex Charizard ex",
+          0
+        ],
+        [
+          "Luxray Oricorio",
+          0
+        ],
+        [
+          "Tapu Koko ex Ampharos",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Suicune ex Giratina ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          40.38
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          58.23
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          66.04
+        ],
+        [
+          "Suicune ex Giratina ex",
+          47.22
+        ],
+        [
+          "Guzzlord ex",
+          31.03
+        ],
+        [
+          "Arceus ex Pichu",
+          57.89
+        ],
+        [
+          "Flareon ex Eevee ex",
+          62.5
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Raikou ex Magnezone",
+          78.57
+        ],
+        [
+          "Silvally Pichu",
+          71.43
+        ],
+        [
+          "Silvally Rampardos",
+          75
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          41.67
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          80
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          66.67
+        ],
+        [
+          "Silvally Arceus ex",
+          50
+        ],
+        [
+          "Altaria Silvally",
+          83.33
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          80
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          60
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          40
+        ],
+        [
+          "Donphan ex Rampardos",
+          100
+        ],
+        [
+          "Meowscarada",
+          50
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          25
+        ],
+        [
+          "Dragonite ex Dragonite",
+          25
+        ],
+        [
+          "Arceus ex Lucario ex",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          66.67
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          66.67
+        ],
+        [
+          "Silvally Oricorio",
+          66.67
+        ],
+        [
+          "Raikou ex Arceus ex",
+          66.67
+        ],
+        [
+          "Leafeon ex Alolan Exeggutor",
+          66.67
+        ],
+        [
+          "Donphan ex Lucario",
+          33.33
+        ],
+        [
+          "Poliwrath ex Politoed",
+          33.33
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          33.33
+        ],
+        [
+          "Darkrai ex Silvally",
+          100
+        ],
+        [
+          "Magcargo",
+          100
+        ],
+        [
+          "Luxray Raikou ex",
+          100
+        ],
+        [
+          "Silvally Pikachu ex",
+          100
+        ],
+        [
+          "Arceus ex Oricorio",
+          100
+        ],
+        [
+          "Gyarados Suicune ex",
+          100
+        ],
+        [
+          "Dugtrio Lucario",
+          100
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          50
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          50
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          50
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          50
+        ],
+        [
+          "Jumpluff ex Greninja",
+          50
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          50
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          50
+        ],
+        [
+          "Silvally Raikou ex",
+          50
+        ],
+        [
+          "Flareon ex Jolteon",
+          0
+        ],
+        [
+          "Kingdra ex Milotic",
+          0
+        ],
+        [
+          "Silvally Darkrai ex",
+          100
+        ],
+        [
+          "Sylveon ex Suicune ex",
+          100
+        ],
+        [
+          "Darkrai ex Giratina ex",
+          100
+        ],
+        [
+          "Gyarados Corsola",
+          100
+        ],
+        [
+          "Rayquaza ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          100
+        ],
+        [
+          "Decidueye ex Lurantis",
+          100
+        ],
+        [
+          "Rampardos",
+          100
+        ],
+        [
+          "Solgaleo ex Drampa",
+          100
+        ],
+        [
+          "Donphan ex Tyrogue",
+          100
+        ],
+        [
+          "Bibarel ex Bibarel",
+          100
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          100
+        ],
+        [
+          "Crobat ex Sylveon ex",
+          100
+        ],
+        [
+          "Alolan Exeggutor Tsareena",
+          100
+        ],
+        [
+          "Darkrai ex Malamar",
+          100
+        ],
+        [
+          "Raikou ex Silvally",
+          100
+        ],
+        [
+          "Slurpuff Alcremie",
+          100
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Guzzlord ex Darkrai ex",
+          100
+        ],
+        [
+          "Arceus ex Raikou ex",
+          100
+        ],
+        [
+          "Entei ex Typhlosion",
+          100
+        ],
+        [
+          "Greninja Giratina ex",
+          100
+        ],
+        [
+          "Silvally Zeraora",
+          100
+        ],
+        [
+          "Suicune ex Palkia ex",
+          100
+        ],
+        [
+          "Suicune ex Arceus ex",
+          100
+        ],
+        [
+          "Weavile ex Darkrai ex",
+          100
+        ],
+        [
+          "Infernape ex Flareon ex",
+          100
+        ],
+        [
+          "Dragonite ex Pichu",
+          100
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          100
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          100
+        ],
+        [
+          "Luxray Pichu",
+          100
+        ],
+        [
+          "Electivire Pichu",
+          100
+        ],
+        [
+          "Donphan ex Sudowoodo",
+          100
+        ],
+        [
+          "Sylveon ex Leafeon ex",
+          100
+        ],
+        [
+          "Jumpluff ex Celebi ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          100
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          100
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Altaria Magby",
+          100
+        ],
+        [
+          "Wishiwashi ex Gyarados",
+          100
+        ],
+        [
+          "Slowking Swanna",
+          100
+        ],
+        [
+          "Gallade ex",
+          0
+        ],
+        [
+          "Suicune ex Gyarados ex",
+          0
+        ],
+        [
+          "Porygon-Z Mantyke",
+          0
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Pikachu ex",
+          0
+        ],
+        [
+          "Darkrai ex Zoroark",
+          0
+        ],
+        [
+          "Giratina ex Greninja",
+          0
+        ],
+        [
+          "Raikou ex Ampharos",
+          0
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          0
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Suicune ex Milotic",
+          0
+        ],
+        [
+          "Espeon ex Eevee ex",
+          0
+        ],
+        [
+          "Raikou ex Luxray",
+          0
+        ],
+        [
+          "Greninja Suicune ex",
+          0
+        ],
+        [
+          "Sylveon ex Eevee ex",
+          0
+        ],
+        [
+          "Dragonite ex Suicune ex",
+          0
+        ],
+        [
+          "Incineroar ex Sylveon ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Guzzlord ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          61.54
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          44.44
+        ],
+        [
+          "Suicune ex Giratina ex",
+          65.52
+        ],
+        [
+          "Guzzlord ex",
+          50
+        ],
+        [
+          "Flareon ex Eevee ex",
+          50
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          85.71
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          47.06
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          29.41
+        ],
+        [
+          "Dragonite ex Dragonite",
+          60
+        ],
+        [
+          "Arceus ex Pichu",
+          40
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Raikou ex Magnezone",
+          50
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          37.5
+        ],
+        [
+          "Silvally Pichu",
+          80
+        ],
+        [
+          "Meowscarada",
+          80
+        ],
+        [
+          "Silvally Rampardos",
+          20
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          0
+        ],
+        [
+          "Suicune ex Milotic",
+          75
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          75
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          50
+        ],
+        [
+          "Arceus ex Oricorio",
+          25
+        ],
+        [
+          "Giratina ex Mewtwo ex",
+          25
+        ],
+        [
+          "Silvally Pikachu ex",
+          100
+        ],
+        [
+          "Silvally Oricorio",
+          66.67
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          66.67
+        ],
+        [
+          "Greninja Suicune ex",
+          33.33
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          100
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          50
+        ],
+        [
+          "Giratina ex Greninja",
+          50
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          50
+        ],
+        [
+          "Raikou ex Ampharos",
+          50
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          50
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          50
+        ],
+        [
+          "Donphan ex Rampardos",
+          50
+        ],
+        [
+          "Raikou ex Luxray",
+          0
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          0
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          0
+        ],
+        [
+          "Incineroar ex Sylveon ex",
+          100
+        ],
+        [
+          "Tapu Koko ex",
+          100
+        ],
+        [
+          "Flareon ex Jolteon",
+          100
+        ],
+        [
+          "Infernape ex Flareon ex",
+          100
+        ],
+        [
+          "Dugtrio Lucario",
+          100
+        ],
+        [
+          "Decidueye ex Suicune ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Arceus ex",
+          100
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          100
+        ],
+        [
+          "Gengar ex Sylveon ex",
+          100
+        ],
+        [
+          "Beedrill ex Beedrill",
+          100
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          100
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          100
+        ],
+        [
+          "Altaria Silvally",
+          100
+        ],
+        [
+          "Jumpluff ex Celebi ex",
+          100
+        ],
+        [
+          "Poliwrath ex Lucario",
+          100
+        ],
+        [
+          "Leafeon ex Meowscarada",
+          100
+        ],
+        [
+          "Galarian Cursola Mismagius",
+          100
+        ],
+        [
+          "Decidueye ex Pheromosa",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          100
+        ],
+        [
+          "Weavile ex Darkrai ex",
+          100
+        ],
+        [
+          "Wigglytuff ex Arceus ex",
+          100
+        ],
+        [
+          "Gyarados ex Gyarados",
+          100
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Infernape ex Entei ex",
+          100
+        ],
+        [
+          "Decidueye ex Meowscarada",
+          100
+        ],
+        [
+          "Wugtrio ex Suicune ex",
+          100
+        ],
+        [
+          "Flareon ex Entei ex",
+          100
+        ],
+        [
+          "Entei ex Charizard ex",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          0
+        ],
+        [
+          "Guzzlord ex Tyranitar",
+          0
+        ],
+        [
+          "Arceus ex Lucario ex",
+          0
+        ],
+        [
+          "Giratina ex",
+          0
+        ],
+        [
+          "Dragonite ex Suicune ex",
+          0
+        ],
+        [
+          "Mismagius ex Shiinotic",
+          0
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          0
+        ],
+        [
+          "Alolan Exeggutor Tsareena",
+          0
+        ],
+        [
+          "Incineroar ex Entei ex",
+          0
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          0
+        ],
+        [
+          "Miltank",
+          0
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          0
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          0
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ],
+        [
+          "Poliwrath ex Politoed",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Greninja Oricorio",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          36.36
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          78.72
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          24.32
+        ],
+        [
+          "Silvally Pichu",
+          38.89
+        ],
+        [
+          "Flareon ex Eevee ex",
+          41.18
+        ],
+        [
+          "Arceus ex Pichu",
+          56.25
+        ],
+        [
+          "Suicune ex Giratina ex",
+          43.75
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Guzzlord ex",
+          50
+        ],
+        [
+          "Raikou ex Magnezone",
+          54.55
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          55.56
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          62.5
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          50
+        ],
+        [
+          "Silvally Oricorio",
+          40
+        ],
+        [
+          "Meowscarada",
+          75
+        ],
+        [
+          "Sylveon ex Greninja",
+          50
+        ],
+        [
+          "Raikou ex Arceus ex",
+          50
+        ],
+        [
+          "Lugia ex Altaria",
+          100
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          66.67
+        ],
+        [
+          "Arceus ex Oricorio",
+          33.33
+        ],
+        [
+          "Poliwrath ex Politoed",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          100
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Primarina ex Suicune ex",
+          100
+        ],
+        [
+          "Suicune ex Milotic",
+          50
+        ],
+        [
+          "Glaceon ex Palkia ex",
+          50
+        ],
+        [
+          "Poliwrath ex Lucario",
+          50
+        ],
+        [
+          "Suicune ex Silvally",
+          50
+        ],
+        [
+          "Silvally Rampardos",
+          50
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          50
+        ],
+        [
+          "Silvally Arceus ex",
+          50
+        ],
+        [
+          "Electivire Pichu",
+          50
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          0
+        ],
+        [
+          "Suicune ex Gyarados",
+          100
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Incineroar ex",
+          100
+        ],
+        [
+          "Arceus ex Raikou ex",
+          100
+        ],
+        [
+          "Suicune ex Primarina ex",
+          100
+        ],
+        [
+          "Buzzwole ex",
+          100
+        ],
+        [
+          "Electivire Raikou ex",
+          100
+        ],
+        [
+          "Crobat ex Arceus ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          100
+        ],
+        [
+          "Raikou ex Luxray",
+          100
+        ],
+        [
+          "Darkrai ex Giratina ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Darkrai ex Silvally",
+          100
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          100
+        ],
+        [
+          "Giratina ex",
+          100
+        ],
+        [
+          "Ho-Oh ex Lugia ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          100
+        ],
+        [
+          "Pikachu ex Pichu",
+          100
+        ],
+        [
+          "Incineroar ex Entei ex",
+          100
+        ],
+        [
+          "Gyarados ex Gyarados",
+          100
+        ],
+        [
+          "Giratina ex Mewtwo ex",
+          100
+        ],
+        [
+          "Wigglytuff ex Arceus ex",
+          100
+        ],
+        [
+          "Incineroar ex Sylveon ex",
+          100
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          0
+        ],
+        [
+          "Gallade ex Rampardos",
+          0
+        ],
+        [
+          "Magnezone Oricorio",
+          0
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Donphan ex Lucario",
+          0
+        ],
+        [
+          "Skarmory ex Skarmory",
+          0
+        ],
+        [
+          "Sylveon ex Togekiss",
+          0
+        ],
+        [
+          "Slurpuff Alcremie",
+          0
+        ],
+        [
+          "Silvally Zeraora",
+          0
+        ],
+        [
+          "Porygon-Z Mantyke",
+          0
+        ],
+        [
+          "Meowscarada Kartana",
+          0
+        ],
+        [
+          "Espeon ex Eevee ex",
+          0
+        ],
+        [
+          "Dragonite ex Suicune ex",
+          0
+        ],
+        [
+          "Dragonite ex Dragonite",
+          0
+        ],
+        [
+          "Entei ex Charizard ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Buzzwole ex Pheromosa",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          28.57
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          53.06
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          48.28
+        ],
+        [
+          "Arceus ex Pichu",
+          72.22
+        ],
+        [
+          "Guzzlord ex",
+          70.59
+        ],
+        [
+          "Raikou ex Magnezone",
+          73.33
+        ],
+        [
+          "Silvally Pichu",
+          50
+        ],
+        [
+          "Suicune ex Giratina ex",
+          20
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          50
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          50
+        ],
+        [
+          "Greninja Oricorio",
+          37.5
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          50
+        ],
+        [
+          "Flareon ex Eevee ex",
+          33.33
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          80
+        ],
+        [
+          "Arceus ex Oricorio",
+          75
+        ],
+        [
+          "Meowscarada",
+          100
+        ],
+        [
+          "Silvally Darkrai ex",
+          66.67
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          66.67
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          33.33
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          33.33
+        ],
+        [
+          "Silvally Oricorio",
+          100
+        ],
+        [
+          "Garchomp ex Garchomp",
+          100
+        ],
+        [
+          "Dragonite ex Dragonite",
+          100
+        ],
+        [
+          "Arceus ex Lucario ex",
+          100
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          100
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          50
+        ],
+        [
+          "Darkrai ex Zoroark",
+          50
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          50
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          50
+        ],
+        [
+          "Suicune ex Silvally",
+          50
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          50
+        ],
+        [
+          "Lucario ex Dugtrio",
+          50
+        ],
+        [
+          "Sylveon ex Stoutland",
+          50
+        ],
+        [
+          "Gallade ex Rampardos",
+          0
+        ],
+        [
+          "Pikachu ex",
+          0
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          0
+        ],
+        [
+          "Solgaleo ex Skarmory",
+          0
+        ],
+        [
+          "Meowscarada Decidueye ex",
+          0
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          100
+        ],
+        [
+          "Umbreon ex Malamar",
+          100
+        ],
+        [
+          "Arceus ex Alolan Raichu ex",
+          100
+        ],
+        [
+          "Donphan ex Silvally",
+          100
+        ],
+        [
+          "Crobat ex Sylveon ex",
+          100
+        ],
+        [
+          "Espeon ex Eevee ex",
+          100
+        ],
+        [
+          "Sylveon ex Mew ex",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          100
+        ],
+        [
+          "Arceus ex Crobat",
+          100
+        ],
+        [
+          "Charizard ex Moltres ex",
+          100
+        ],
+        [
+          "Silvally Pikachu ex",
+          100
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          100
+        ],
+        [
+          "Sylveon ex Togekiss",
+          100
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          100
+        ],
+        [
+          "Darkrai ex Umbreon ex",
+          100
+        ],
+        [
+          "Lanturn ex Oricorio",
+          100
+        ],
+        [
+          "Poliwrath ex Mantyke",
+          100
+        ],
+        [
+          "Giratina ex",
+          100
+        ],
+        [
+          "Dragonite ex Pichu",
+          100
+        ],
+        [
+          "Meowscarada Kartana",
+          100
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Jumpluff ex Greninja",
+          100
+        ],
+        [
+          "Infernape ex Entei ex",
+          100
+        ],
+        [
+          "Altaria Mantyke",
+          100
+        ],
+        [
+          "Silvally Arceus ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          100
+        ],
+        [
+          "Kingdra ex Sylveon ex",
+          100
+        ],
+        [
+          "Suicune ex Milotic",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          100
+        ],
+        [
+          "Poliwrath ex Politoed",
+          100
+        ],
+        [
+          "Entei ex Flareon ex",
+          0
+        ],
+        [
+          "Lucario Rampardos",
+          0
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Suicune ex Palkia ex",
+          0
+        ],
+        [
+          "Giratina ex Galarian Cursola",
+          0
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          0
+        ],
+        [
+          "Lugia ex Altaria",
+          0
+        ],
+        [
+          "Palkia ex Silvally",
+          0
+        ],
+        [
+          "Zoroark Silvally",
+          0
+        ],
+        [
+          "Eevee ex Espeon ex",
+          0
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Electivire Raikou ex",
+          0
+        ],
+        [
+          "Donphan ex Lucario",
+          0
+        ],
+        [
+          "Giratina ex Greninja",
+          0
+        ],
+        [
+          "Suicune ex Primarina",
+          0
+        ],
+        [
+          "Raikou ex Luxray",
+          0
+        ],
+        [
+          "Toucannon",
+          0
+        ],
+        [
+          "Silvally Raikou ex",
+          0
+        ],
+        [
+          "Incineroar ex Entei ex",
+          0
+        ],
+        [
+          "Kingdra ex Milotic",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          0
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Decidueye ex Meowscarada",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Silvally Pichu",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          33.33
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          58
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          48.48
+        ],
+        [
+          "Arceus ex Pichu",
+          59.09
+        ],
+        [
+          "Greninja Oricorio",
+          61.11
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          50
+        ],
+        [
+          "Suicune ex Giratina ex",
+          28.57
+        ],
+        [
+          "Flareon ex Eevee ex",
+          30
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          42.86
+        ],
+        [
+          "Raikou ex Magnezone",
+          14.29
+        ],
+        [
+          "Silvally Pichu",
+          50
+        ],
+        [
+          "Silvally Rampardos",
+          33.33
+        ],
+        [
+          "Meowscarada",
+          16.67
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          60
+        ],
+        [
+          "Guzzlord ex",
+          20
+        ],
+        [
+          "Donphan ex Rampardos",
+          100
+        ],
+        [
+          "Arceus ex Oricorio",
+          100
+        ],
+        [
+          "Lugia ex Altaria",
+          75
+        ],
+        [
+          "Silvally Oricorio",
+          50
+        ],
+        [
+          "Altaria Silvally",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          100
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          66.67
+        ],
+        [
+          "Silvally Darkrai ex",
+          33.33
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          33.33
+        ],
+        [
+          "Greninja Suicune ex",
+          100
+        ],
+        [
+          "Blastoise ex Palkia ex",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          100
+        ],
+        [
+          "Donphan ex Lucario",
+          50
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          50
+        ],
+        [
+          "Sylveon ex Togekiss",
+          50
+        ],
+        [
+          "Suicune ex Gyarados",
+          50
+        ],
+        [
+          "Sylveon ex Greninja",
+          50
+        ],
+        [
+          "Altaria Arceus ex",
+          50
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          50
+        ],
+        [
+          "Magnezone Oricorio",
+          0
+        ],
+        [
+          "Silvally Arceus ex",
+          0
+        ],
+        [
+          "Leafeon ex Celebi ex",
+          100
+        ],
+        [
+          "Meowscarada Decidueye ex",
+          100
+        ],
+        [
+          "Silvally Guzzlord ex",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Poliwrath ex Politoed",
+          100
+        ],
+        [
+          "Jumpluff ex Infernape ex",
+          100
+        ],
+        [
+          "Pikachu ex",
+          100
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          100
+        ],
+        [
+          "Jumpluff ex Zeraora",
+          100
+        ],
+        [
+          "Lanturn ex Pichu",
+          100
+        ],
+        [
+          "Gyarados ex Suicune ex",
+          100
+        ],
+        [
+          "Pikachu ex Raikou ex",
+          100
+        ],
+        [
+          "Darkrai ex Silvally",
+          100
+        ],
+        [
+          "Darkrai ex Zoroark",
+          100
+        ],
+        [
+          "Lanturn ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Milotic Suicune ex",
+          100
+        ],
+        [
+          "Lanturn ex",
+          100
+        ],
+        [
+          "Lugia ex Silvally",
+          100
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          100
+        ],
+        [
+          "Solgaleo ex Drampa",
+          100
+        ],
+        [
+          "Giratina ex",
+          100
+        ],
+        [
+          "Greninja Giratina ex",
+          100
+        ],
+        [
+          "Suicune ex Arceus ex",
+          100
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          100
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          0
+        ],
+        [
+          "Suicune ex Primarina ex",
+          0
+        ],
+        [
+          "Jumpluff ex Sylveon ex",
+          0
+        ],
+        [
+          "Arceus ex Raikou ex",
+          0
+        ],
+        [
+          "Paldean Clodsire ex Absol",
+          0
+        ],
+        [
+          "Arceus ex Alolan Raichu ex",
+          0
+        ],
+        [
+          "Jumpluff ex Raikou ex",
+          0
+        ],
+        [
+          "Donphan ex Donphan",
+          0
+        ],
+        [
+          "Suicune ex Palkia ex",
+          0
+        ],
+        [
+          "Rampardos Hitmonchan",
+          0
+        ],
+        [
+          "Rampardos Silvally",
+          0
+        ],
+        [
+          "Alolan Exeggutor Pichu",
+          0
+        ],
+        [
+          "Guzzlord ex Tyranitar",
+          0
+        ],
+        [
+          "Suicune ex Primarina",
+          0
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          0
+        ],
+        [
+          "Beedrill ex Beedrill",
+          0
+        ],
+        [
+          "Giratina ex Latias",
+          0
+        ],
+        [
+          "Suicune ex Milotic",
+          0
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Flareon ex Eevee ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          46.77
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          59.02
+        ],
+        [
+          "Guzzlord ex",
+          42.31
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          59.09
+        ],
+        [
+          "Greninja Oricorio",
+          58.82
+        ],
+        [
+          "Suicune ex Giratina ex",
+          37.5
+        ],
+        [
+          "Arceus ex Pichu",
+          53.33
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          45.45
+        ],
+        [
+          "Silvally Pichu",
+          70
+        ],
+        [
+          "Flareon ex Eevee ex",
+          50
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          66.67
+        ],
+        [
+          "Meowscarada",
+          66.67
+        ],
+        [
+          "Silvally Rampardos",
+          33.33
+        ],
+        [
+          "Donphan ex Rampardos",
+          25
+        ],
+        [
+          "Meowscarada Decidueye ex",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          33.33
+        ],
+        [
+          "Silvally Oricorio",
+          100
+        ],
+        [
+          "Raikou ex Luxray",
+          100
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          100
+        ],
+        [
+          "Giratina ex",
+          100
+        ],
+        [
+          "Raikou ex Magnezone",
+          100
+        ],
+        [
+          "Suicune ex Silvally",
+          100
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          100
+        ],
+        [
+          "Donphan ex Lucario",
+          50
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          50
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          50
+        ],
+        [
+          "Arceus ex Oricorio",
+          50
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          50
+        ],
+        [
+          "Silvally Altaria",
+          50
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          50
+        ],
+        [
+          "Incineroar ex Sylveon ex",
+          50
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          0
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          0
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Pikachu ex",
+          100
+        ],
+        [
+          "Raikou ex Boltund",
+          100
+        ],
+        [
+          "Miltank",
+          100
+        ],
+        [
+          "Altaria Darkrai ex",
+          100
+        ],
+        [
+          "Sylveon ex Suicune ex",
+          100
+        ],
+        [
+          "Electivire Raikou ex",
+          100
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          100
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Suicune ex Gyarados",
+          100
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          100
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          100
+        ],
+        [
+          "Alolan Raichu ex Darkrai ex",
+          100
+        ],
+        [
+          "Kingdra ex Greninja",
+          100
+        ],
+        [
+          "Garchomp Mantyke",
+          100
+        ],
+        [
+          "Dragonite ex Pichu",
+          100
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Altaria Silvally",
+          100
+        ],
+        [
+          "Suicune ex Milotic",
+          100
+        ],
+        [
+          "Greninja Darkrai ex",
+          100
+        ],
+        [
+          "Greninja Articuno ex",
+          100
+        ],
+        [
+          "Mismagius ex Shiinotic",
+          100
+        ],
+        [
+          "Gyarados ex Suicune ex",
+          100
+        ],
+        [
+          "Poliwrath ex Lucario",
+          100
+        ],
+        [
+          "Lucario ex Dugtrio",
+          100
+        ],
+        [
+          "Flareon ex Magby",
+          100
+        ],
+        [
+          "Meowscarada Pheromosa",
+          100
+        ],
+        [
+          "Paldean Clodsire ex Nihilego",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Entei ex Charizard ex",
+          100
+        ],
+        [
+          "Poliwrath ex Politoed",
+          100
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          100
+        ],
+        [
+          "Infernape ex Silvally",
+          100
+        ],
+        [
+          "Tapu Koko ex Ampharos",
+          100
+        ],
+        [
+          "Silvally Darkrai ex",
+          0
+        ],
+        [
+          "Magnezone Oricorio",
+          0
+        ],
+        [
+          "Meowscarada Tyrogue",
+          0
+        ],
+        [
+          "Darkrai ex Silvally",
+          0
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          0
+        ],
+        [
+          "Suicune ex Gyarados ex",
+          0
+        ],
+        [
+          "Slurpuff Alcremie",
+          0
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          0
+        ],
+        [
+          "Weavile ex Darkrai ex",
+          0
+        ],
+        [
+          "Butterfree Alolan Exeggutor",
+          0
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          0
+        ],
+        [
+          "Suicune ex Primarina",
+          0
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          0
+        ],
+        [
+          "Dragonite ex Suicune ex",
+          0
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          0
+        ],
+        [
+          "Dragonite ex Dragonite",
+          0
+        ],
+        [
+          "Sylveon ex Stoutland",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Raikou ex Magnezone",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          55
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          37.14
+        ],
+        [
+          "Arceus ex Pichu",
+          46.67
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          26.67
+        ],
+        [
+          "Suicune ex Giratina ex",
+          21.43
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          30.77
+        ],
+        [
+          "Greninja Oricorio",
+          45.45
+        ],
+        [
+          "Guzzlord ex",
+          50
+        ],
+        [
+          "Silvally Pichu",
+          85.71
+        ],
+        [
+          "Dragonite ex Dragonite",
+          66.67
+        ],
+        [
+          "Raikou ex Magnezone",
+          50
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          20
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          20
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Donphan ex Lucario",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          25
+        ],
+        [
+          "Silvally Arceus ex",
+          25
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          0
+        ],
+        [
+          "Suicune ex Milotic",
+          100
+        ],
+        [
+          "Meowscarada",
+          100
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Charizard ex Moltres ex",
+          100
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          50
+        ],
+        [
+          "Jumpluff ex Snorlax ex",
+          50
+        ],
+        [
+          "Slurpuff Alcremie",
+          50
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          50
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          0
+        ],
+        [
+          "Silvally Rampardos",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Umbreon ex Sylveon ex",
+          100
+        ],
+        [
+          "Miltank",
+          100
+        ],
+        [
+          "Donphan ex Silvally",
+          100
+        ],
+        [
+          "Skarmory ex Skarmory",
+          100
+        ],
+        [
+          "Crobat ex Sylveon ex",
+          100
+        ],
+        [
+          "Suicune ex Gyarados",
+          100
+        ],
+        [
+          "Meowscarada Tyrogue",
+          100
+        ],
+        [
+          "Silvally Darkrai ex",
+          100
+        ],
+        [
+          "Electivire Raikou ex",
+          100
+        ],
+        [
+          "Sylveon ex Eevee ex",
+          100
+        ],
+        [
+          "Poliwrath ex Suicune ex",
+          100
+        ],
+        [
+          "Arceus ex Lucario ex",
+          100
+        ],
+        [
+          "Poliwrath ex Mantyke",
+          100
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          100
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Kingdra ex Greninja",
+          100
+        ],
+        [
+          "Garchomp Mantyke",
+          100
+        ],
+        [
+          "Suicune ex Primarina",
+          100
+        ],
+        [
+          "Infernape ex Flareon ex",
+          100
+        ],
+        [
+          "Donphan ex Sudowoodo",
+          100
+        ],
+        [
+          "Kingdra ex Sylveon ex",
+          100
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          100
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          100
+        ],
+        [
+          "Alolan Raichu ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Garchomp ex Rampardos",
+          0
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ],
+        [
+          "Espeon ex Eevee ex",
+          0
+        ],
+        [
+          "Darkrai ex Tyranitar",
+          0
+        ],
+        [
+          "Altaria Arceus ex",
+          0
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          0
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          0
+        ],
+        [
+          "Greninja Suicune ex",
+          0
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          0
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          0
+        ],
+        [
+          "Flareon ex Jolteon",
+          0
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          0
+        ],
+        [
+          "Incineroar ex Entei ex",
+          0
+        ],
+        [
+          "Arceus ex Oricorio",
+          0
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Darkrai ex Arceus ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          44.44
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          56.86
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          65
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          50
+        ],
+        [
+          "Guzzlord ex",
+          52.94
+        ],
+        [
+          "Suicune ex Giratina ex",
+          50
+        ],
+        [
+          "Flareon ex Eevee ex",
+          45.45
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Silvally Rampardos",
+          28.57
+        ],
+        [
+          "Arceus ex Pichu",
+          50
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          100
+        ],
+        [
+          "Raikou ex Magnezone",
+          80
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          20
+        ],
+        [
+          "Silvally Oricorio",
+          100
+        ],
+        [
+          "Dragonite ex Dragonite",
+          75
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          50
+        ],
+        [
+          "Silvally Pichu",
+          66.67
+        ],
+        [
+          "Meowscarada",
+          0
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          0
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Silvally Pikachu ex",
+          100
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          100
+        ],
+        [
+          "Sylveon ex Greninja",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          100
+        ],
+        [
+          "Dragonite ex Suicune ex",
+          100
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Skarmory ex Bastiodon",
+          100
+        ],
+        [
+          "Arceus ex Oricorio",
+          50
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          50
+        ],
+        [
+          "Silvally Arceus ex",
+          50
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          50
+        ],
+        [
+          "Tapu Koko ex Raikou ex",
+          50
+        ],
+        [
+          "Luxray Oricorio",
+          0
+        ],
+        [
+          "Poliwrath ex Lucario",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Suicune ex Milotic",
+          0
+        ],
+        [
+          "Wugtrio ex Suicune ex",
+          100
+        ],
+        [
+          "Palkia ex Silvally",
+          100
+        ],
+        [
+          "Zoroark Silvally",
+          100
+        ],
+        [
+          "Entei ex Flareon ex",
+          100
+        ],
+        [
+          "Lugia ex Altaria",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Donphan ex Donphan",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          100
+        ],
+        [
+          "Silvally Suicune ex",
+          100
+        ],
+        [
+          "Meowscarada Tyrogue",
+          100
+        ],
+        [
+          "Donphan ex Lucario",
+          100
+        ],
+        [
+          "Sylveon ex Togekiss",
+          100
+        ],
+        [
+          "Giratina ex Greninja",
+          100
+        ],
+        [
+          "Eevee ex Giratina ex",
+          100
+        ],
+        [
+          "Espeon ex Eevee ex",
+          100
+        ],
+        [
+          "Altaria Silvally",
+          100
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          100
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          100
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          100
+        ],
+        [
+          "Raikou ex Decidueye ex",
+          100
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Giratina ex Latias",
+          100
+        ],
+        [
+          "Kingdra ex Milotic",
+          100
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          100
+        ],
+        [
+          "Giratina ex Mewtwo ex",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          100
+        ],
+        [
+          "Flareon ex Flareon",
+          100
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          100
+        ],
+        [
+          "Jumpluff ex Zeraora",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          0
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          0
+        ],
+        [
+          "Sylveon ex Leafeon ex",
+          0
+        ],
+        [
+          "Flareon ex Magby",
+          0
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          0
+        ],
+        [
+          "Entei ex Charizard ex",
+          0
+        ],
+        [
+          "Sylveon ex Stoutland",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Guzzlord ex Naganadel",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          36.36
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          40
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          40
+        ],
+        [
+          "Greninja Oricorio",
+          44.44
+        ],
+        [
+          "Arceus ex Pichu",
+          62.5
+        ],
+        [
+          "Silvally Pichu",
+          57.14
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          50
+        ],
+        [
+          "Raikou ex Magnezone",
+          80
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          25
+        ],
+        [
+          "Silvally Oricorio",
+          33.33
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          0
+        ],
+        [
+          "Poliwrath ex Politoed",
+          100
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Arceus ex Alolan Raichu ex",
+          50
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          50
+        ],
+        [
+          "Flareon ex Eevee ex",
+          50
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          50
+        ],
+        [
+          "Suicune ex Giratina ex",
+          50
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Suicune ex Suicune",
+          100
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          100
+        ],
+        [
+          "Glaceon ex Palkia ex",
+          100
+        ],
+        [
+          "Umbreon ex Sylveon ex",
+          100
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          100
+        ],
+        [
+          "Wugtrio ex Suicune ex",
+          100
+        ],
+        [
+          "Poliwrath ex Garchomp",
+          100
+        ],
+        [
+          "Buzzwole ex Altaria",
+          100
+        ],
+        [
+          "Sylveon ex Gardevoir",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Charizard ex Moltres ex",
+          100
+        ],
+        [
+          "Sylveon ex Giratina ex",
+          100
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          100
+        ],
+        [
+          "Luxray Oricorio",
+          100
+        ],
+        [
+          "Zoroark Silvally",
+          100
+        ],
+        [
+          "Dragonite ex Dragonite",
+          100
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          100
+        ],
+        [
+          "Aerodactyl ex Rampardos",
+          100
+        ],
+        [
+          "Donphan ex Donphan",
+          100
+        ],
+        [
+          "Arceus ex Crobat",
+          100
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          100
+        ],
+        [
+          "Dragonite",
+          100
+        ],
+        [
+          "Gyarados ex Suicune ex",
+          100
+        ],
+        [
+          "Bibarel ex Bibarel",
+          100
+        ],
+        [
+          "Suicune ex Palkia ex",
+          100
+        ],
+        [
+          "Gengar ex Sylveon ex",
+          100
+        ],
+        [
+          "Incineroar ex",
+          0
+        ],
+        [
+          "Suicune ex Silvally",
+          0
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ],
+        [
+          "Dragonite ex Pichu",
+          0
+        ],
+        [
+          "Suicune ex Milotic",
+          0
+        ],
+        [
+          "Suicune ex Gyarados",
+          0
+        ],
+        [
+          "Jumpluff ex Zeraora",
+          0
+        ],
+        [
+          "Meowscarada",
+          0
+        ],
+        [
+          "Arceus ex Lucario ex",
+          0
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          0
+        ],
+        [
+          "Sylveon ex Lugia ex",
+          0
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Porygon-Z Mantyke",
+          0
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          0
+        ],
+        [
+          "Silvally Rampardos",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Meowscarada",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          58.33
+        ],
+        [
+          "Suicune ex Greninja",
+          36.36
+        ],
+        [
+          "Silvally Pichu",
+          83.33
+        ],
+        [
+          "Flareon ex Eevee ex",
+          33.33
+        ],
+        [
+          "Arceus ex Pichu",
+          20
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          20
+        ],
+        [
+          "Guzzlord ex",
+          20
+        ],
+        [
+          "Suicune ex Giratina ex",
+          50
+        ],
+        [
+          "Greninja Oricorio",
+          25
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          33.33
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ],
+        [
+          "Donphan ex Lucario",
+          100
+        ],
+        [
+          "Donphan ex Rampardos",
+          100
+        ],
+        [
+          "Sylveon ex Greninja",
+          100
+        ],
+        [
+          "Meowscarada",
+          50
+        ],
+        [
+          "Sylveon ex Stoutland",
+          50
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          0
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ],
+        [
+          "Jumpluff ex Pikachu ex",
+          0
+        ],
+        [
+          "Aerodactyl ex Primeape",
+          100
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Arceus ex Zapdos ex",
+          100
+        ],
+        [
+          "Lanturn ex Pichu",
+          100
+        ],
+        [
+          "Lugia ex Altaria",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          100
+        ],
+        [
+          "Ho-Oh ex Dragonite ex",
+          100
+        ],
+        [
+          "Gallade ex Sylveon ex",
+          100
+        ],
+        [
+          "Darkrai ex Umbreon ex",
+          100
+        ],
+        [
+          "Garchomp ex Rampardos",
+          100
+        ],
+        [
+          "Donphan ex Dugtrio",
+          100
+        ],
+        [
+          "Wigglytuff ex Arceus ex",
+          100
+        ],
+        [
+          "Gyarados ex Suicune ex",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          0
+        ],
+        [
+          "Suicune ex Palkia ex",
+          0
+        ],
+        [
+          "Slurpuff Alcremie",
+          0
+        ],
+        [
+          "Porygon-Z Stoutland",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ],
+        [
+          "Milotic Suicune ex",
+          0
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          0
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          0
+        ],
+        [
+          "Giratina ex Greninja",
+          0
+        ],
+        [
+          "Entei ex Magby",
+          0
+        ],
+        [
+          "Garchomp Mantyke",
+          0
+        ],
+        [
+          "Pikachu ex Pichu",
+          0
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          0
+        ],
+        [
+          "Suicune ex Silvally",
+          0
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Dragonite ex Dragonite",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          38.1
+        ],
+        [
+          "Guzzlord ex",
+          40
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          54.55
+        ],
+        [
+          "Arceus ex Pichu",
+          28.57
+        ],
+        [
+          "Raikou ex Magnezone",
+          33.33
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          16.67
+        ],
+        [
+          "Suicune ex Giratina ex",
+          75
+        ],
+        [
+          "Dragonite ex Dragonite",
+          50
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          25
+        ],
+        [
+          "Silvally Rampardos",
+          33.33
+        ],
+        [
+          "Arceus ex Oricorio",
+          33.33
+        ],
+        [
+          "Donphan ex Lucario",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          50
+        ],
+        [
+          "Donphan ex Rampardos",
+          50
+        ],
+        [
+          "Miltank",
+          50
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          100
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          100
+        ],
+        [
+          "Silvally Arceus ex",
+          100
+        ],
+        [
+          "Decidueye ex Pheromosa",
+          100
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          100
+        ],
+        [
+          "Wigglytuff ex Arceus ex",
+          100
+        ],
+        [
+          "Greninja Oricorio",
+          100
+        ],
+        [
+          "Infernape ex Entei ex",
+          100
+        ],
+        [
+          "Flareon ex Eevee ex",
+          100
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          100
+        ],
+        [
+          "Giratina ex Mewtwo ex",
+          100
+        ],
+        [
+          "Silvally Pikachu ex",
+          0
+        ],
+        [
+          "Luxray Oricorio",
+          0
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          0
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          0
+        ],
+        [
+          "Jumpluff ex Celebi ex",
+          0
+        ],
+        [
+          "Altaria Silvally",
+          0
+        ],
+        [
+          "Sylveon ex Stoutland",
+          0
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          0
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          0
+        ],
+        [
+          "Gyarados ex Gyarados",
+          0
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Sylveon ex Togekiss",
+          0
+        ],
+        [
+          "Infernape ex Silvally",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Raikou ex Arceus ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          44
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          45.45
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          25
+        ],
+        [
+          "Arceus ex Pichu",
+          80
+        ],
+        [
+          "Raikou ex Magnezone",
+          75
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Sylveon ex Greninja",
+          33.33
+        ],
+        [
+          "Suicune ex Giratina ex",
+          33.33
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Arceus ex Oricorio",
+          100
+        ],
+        [
+          "Suicune ex Silvally",
+          50
+        ],
+        [
+          "Dragonite ex Dragonite",
+          50
+        ],
+        [
+          "Donphan ex Lucario",
+          50
+        ],
+        [
+          "Raikou ex Arceus ex",
+          50
+        ],
+        [
+          "Guzzlord ex",
+          0
+        ],
+        [
+          "Pikachu ex Pichu",
+          100
+        ],
+        [
+          "Mismagius ex Sylveon ex",
+          100
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          100
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Lugia ex Altaria",
+          100
+        ],
+        [
+          "Meowscarada",
+          100
+        ],
+        [
+          "Sylveon ex Ampharos",
+          100
+        ],
+        [
+          "Palkia ex Mantyke",
+          100
+        ],
+        [
+          "Starmie ex Milotic",
+          100
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          100
+        ],
+        [
+          "Suicune ex Gyarados",
+          100
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          100
+        ],
+        [
+          "Poliwrath ex Lucario",
+          100
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          100
+        ],
+        [
+          "Arceus ex Lucario ex",
+          100
+        ],
+        [
+          "Venusaur ex",
+          100
+        ],
+        [
+          "Alolan Ninetales Palkia ex",
+          100
+        ],
+        [
+          "Wigglytuff ex Arceus ex",
+          100
+        ],
+        [
+          "Wigglytuff ex Eevee ex",
+          100
+        ],
+        [
+          "Pikachu ex Arceus ex",
+          100
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          100
+        ],
+        [
+          "Decidueye ex Meowscarada",
+          100
+        ],
+        [
+          "Moltres ex Charizard ex",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          0
+        ],
+        [
+          "Altaria Darkrai ex",
+          0
+        ],
+        [
+          "Poliwrath ex Politoed",
+          0
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          0
+        ],
+        [
+          "Slurpuff Alcremie",
+          0
+        ],
+        [
+          "Zoroark Silvally",
+          0
+        ],
+        [
+          "Giratina ex Greninja",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Guzzlord ex Nihilego",
+          0
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          0
+        ],
+        [
+          "Infernape ex Entei ex",
+          0
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          0
+        ],
+        [
+          "Silvally Rampardos",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Silvally Oricorio",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          45
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          50
+        ],
+        [
+          "Arceus ex Pichu",
+          55.56
+        ],
+        [
+          "Greninja Oricorio",
+          60
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          20
+        ],
+        [
+          "Silvally Pichu",
+          50
+        ],
+        [
+          "Silvally Oricorio",
+          50
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          66.67
+        ],
+        [
+          "Suicune ex Giratina ex",
+          33.33
+        ],
+        [
+          "Guzzlord ex",
+          33.33
+        ],
+        [
+          "Suicune ex Silvally",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          50
+        ],
+        [
+          "Silvally Rampardos",
+          50
+        ],
+        [
+          "Silvally Arceus ex",
+          50
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          0
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Arceus ex Raikou ex",
+          100
+        ],
+        [
+          "Gyarados Suicune ex",
+          100
+        ],
+        [
+          "Darkrai ex Crobat ex",
+          100
+        ],
+        [
+          "Palkia ex Silvally",
+          100
+        ],
+        [
+          "Gyarados ex Miltank",
+          100
+        ],
+        [
+          "Suicune ex Gyarados",
+          100
+        ],
+        [
+          "Donphan ex Donphan",
+          100
+        ],
+        [
+          "Pikachu ex Raikou ex",
+          100
+        ],
+        [
+          "Solgaleo ex Galarian Cursola",
+          100
+        ],
+        [
+          "Blastoise ex Blastoise",
+          100
+        ],
+        [
+          "Darkrai ex Malamar",
+          100
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          100
+        ],
+        [
+          "Sylveon ex Magnezone",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          0
+        ],
+        [
+          "Glaceon ex Palkia ex",
+          0
+        ],
+        [
+          "Donphan ex Lucario",
+          0
+        ],
+        [
+          "Porygon-Z Stoutland",
+          0
+        ],
+        [
+          "Gyarados Corsola",
+          0
+        ],
+        [
+          "Giratina ex Greninja",
+          0
+        ],
+        [
+          "Starmie ex Milotic",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Charizard ex Sylveon ex",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          40
+        ],
+        [
+          "Suicune ex Giratina ex",
+          33.33
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          22.22
+        ],
+        [
+          "Suicune ex Greninja",
+          14.29
+        ],
+        [
+          "Silvally Pichu",
+          40
+        ],
+        [
+          "Arceus ex Pichu",
+          0
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          50
+        ],
+        [
+          "Greninja Oricorio",
+          0
+        ],
+        [
+          "Flareon ex Leafeon ex",
+          100
+        ],
+        [
+          "Entei ex Magby",
+          100
+        ],
+        [
+          "Silvally",
+          100
+        ],
+        [
+          "Blastoise ex Kangaskhan",
+          100
+        ],
+        [
+          "Arceus ex Crobat",
+          100
+        ],
+        [
+          "Starmie ex Milotic",
+          100
+        ],
+        [
+          "Giratina ex Greninja",
+          100
+        ],
+        [
+          "Suicune ex Milotic",
+          100
+        ],
+        [
+          "Flareon ex Eevee ex",
+          100
+        ],
+        [
+          "Paldean Clodsire ex Nihilego",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          100
+        ],
+        [
+          "Silvally Arceus ex",
+          0
+        ],
+        [
+          "Silvally Oricorio",
+          0
+        ],
+        [
+          "Arceus ex Raikou ex",
+          0
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          0
+        ],
+        [
+          "Flareon ex Flareon",
+          0
+        ],
+        [
+          "Dragonite ex Pichu",
+          0
+        ],
+        [
+          "Raikou ex Oricorio",
+          0
+        ],
+        [
+          "Arceus ex Oricorio",
+          0
+        ],
+        [
+          "Dragonite ex Dragonite",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ],
+        [
+          "Gallade ex Hitmontop",
+          0
+        ],
+        [
+          "Milotic Suicune ex",
+          0
+        ],
+        [
+          "Gallade ex Sylveon ex",
+          0
+        ],
+        [
+          "Tapu Koko ex Pikachu ex",
+          0
+        ],
+        [
+          "Alolan Exeggutor Tsareena",
+          0
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Guzzlord ex",
+          0
+        ],
+        [
+          "Moltres ex Charizard ex",
+          0
+        ],
+        [
+          "Luxray Oricorio",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Arceus ex Oricorio",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          27.27
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          40
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          44.44
+        ],
+        [
+          "Guzzlord ex",
+          75
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          25
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Greninja Oricorio",
+          66.67
+        ],
+        [
+          "Dragonite ex Dragonite",
+          66.67
+        ],
+        [
+          "Arceus ex Pichu",
+          100
+        ],
+        [
+          "Suicune ex Gyarados",
+          100
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          50
+        ],
+        [
+          "Arceus ex Oricorio",
+          50
+        ],
+        [
+          "Flareon ex Eevee ex",
+          50
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ],
+        [
+          "Suicune ex Giratina ex",
+          0
+        ],
+        [
+          "Silvally Pikachu ex",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          100
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Jumpluff ex Zangoose",
+          100
+        ],
+        [
+          "Gyarados Corsola",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          100
+        ],
+        [
+          "Primarina ex Suicune ex",
+          100
+        ],
+        [
+          "Blastoise ex Swanna",
+          100
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          100
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          100
+        ],
+        [
+          "Electivire Raikou ex",
+          0
+        ],
+        [
+          "Silvally Rampardos",
+          0
+        ],
+        [
+          "Raikou ex Silvally",
+          0
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          0
+        ],
+        [
+          "Magcargo",
+          0
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Silvally Rampardos",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          58.62
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          50
+        ],
+        [
+          "Suicune ex Giratina ex",
+          25
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          57.14
+        ],
+        [
+          "Flareon ex Eevee ex",
+          66.67
+        ],
+        [
+          "Silvally Pichu",
+          66.67
+        ],
+        [
+          "Silvally Rampardos",
+          50
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          60
+        ],
+        [
+          "Arceus ex Pichu",
+          60
+        ],
+        [
+          "Guzzlord ex",
+          60
+        ],
+        [
+          "Dragonite ex Dragonite",
+          66.67
+        ],
+        [
+          "Raikou ex Magnezone",
+          100
+        ],
+        [
+          "Silvally Oricorio",
+          50
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          50
+        ],
+        [
+          "Entei ex Magby",
+          50
+        ],
+        [
+          "Meowscarada Tyrogue",
+          100
+        ],
+        [
+          "Arceus ex Oricorio",
+          100
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          100
+        ],
+        [
+          "Lugia ex Silvally",
+          100
+        ],
+        [
+          "Tinkaton ex Pichu",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Silvally Arceus ex",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Sylveon ex Stoutland",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          100
+        ],
+        [
+          "Decidueye ex Tsareena",
+          100
+        ],
+        [
+          "Decidueye ex Lurantis",
+          0
+        ],
+        [
+          "Decidueye ex Decidueye",
+          0
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          0
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Sylveon ex Greninja",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          20
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          16.67
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          42.86
+        ],
+        [
+          "Arceus ex Pichu",
+          60
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Sylveon ex Greninja",
+          50
+        ],
+        [
+          "Raikou ex Arceus ex",
+          66.67
+        ],
+        [
+          "Flareon ex Eevee ex",
+          100
+        ],
+        [
+          "Suicune ex Silvally",
+          100
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          100
+        ],
+        [
+          "Dragonite ex Dragonite",
+          100
+        ],
+        [
+          "Silvally Pichu",
+          50
+        ],
+        [
+          "Meowscarada",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Raikou ex Magnezone",
+          100
+        ],
+        [
+          "Crabominable ex Milotic",
+          100
+        ],
+        [
+          "Gallade ex Rampardos",
+          100
+        ],
+        [
+          "Altaria Darkrai ex",
+          100
+        ],
+        [
+          "Articuno ex Suicune ex",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Gallade ex Sylveon ex",
+          100
+        ],
+        [
+          "Skarmory ex Skarmory",
+          100
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          100
+        ],
+        [
+          "Suicune ex Milotic",
+          100
+        ],
+        [
+          "Guzzlord ex",
+          100
+        ],
+        [
+          "Solgaleo ex Suicune ex",
+          100
+        ],
+        [
+          "Silvally Arceus ex",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          0
+        ],
+        [
+          "Giratina ex Galarian Cursola",
+          0
+        ],
+        [
+          "Rampardos Silvally",
+          0
+        ],
+        [
+          "Primarina ex Suicune ex",
+          0
+        ],
+        [
+          "Flareon ex Jolteon",
+          0
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Donphan ex Lucario",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          53.85
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          22.22
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          16.67
+        ],
+        [
+          "Arceus ex Pichu",
+          75
+        ],
+        [
+          "Donphan ex Lucario",
+          50
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ],
+        [
+          "Suicune ex Giratina ex",
+          66.67
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          100
+        ],
+        [
+          "Meowscarada Celebi",
+          100
+        ],
+        [
+          "Flareon ex Eevee ex",
+          50
+        ],
+        [
+          "Silvally Pichu",
+          50
+        ],
+        [
+          "Raikou ex Arceus ex",
+          50
+        ],
+        [
+          "Meowscarada",
+          0
+        ],
+        [
+          "Dragonite ex Dragonite",
+          0
+        ],
+        [
+          "Silvally Oricorio",
+          100
+        ],
+        [
+          "Silvally Darkrai ex",
+          100
+        ],
+        [
+          "Jumpluff ex Infernape ex",
+          100
+        ],
+        [
+          "Raikou ex Luxray",
+          100
+        ],
+        [
+          "Greninja Oricorio",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          100
+        ],
+        [
+          "Sylveon ex Togekiss",
+          100
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          100
+        ],
+        [
+          "Dragonite",
+          100
+        ],
+        [
+          "Jumpluff ex Snorlax ex",
+          100
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          100
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Entei ex Magby",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Jumpluff ex Arceus ex",
+          0
+        ],
+        [
+          "Slurpuff Alcremie",
+          0
+        ],
+        [
+          "Magnezone Oricorio",
+          0
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          0
+        ],
+        [
+          "Porygon-Z Mantyke",
+          0
+        ],
+        [
+          "Raikou ex Ampharos",
+          0
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Raikou ex Pikachu ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          66.67
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          50
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          25
+        ],
+        [
+          "Flareon ex Eevee ex",
+          66.67
+        ],
+        [
+          "Suicune ex Giratina ex",
+          33.33
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          100
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          50
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Arceus ex Pichu",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Poliwrath ex Politoed",
+          100
+        ],
+        [
+          "Meowscarada",
+          100
+        ],
+        [
+          "Garchomp ex Garchomp",
+          100
+        ],
+        [
+          "Silvally Darkrai ex",
+          100
+        ],
+        [
+          "Palkia ex Blastoise ex",
+          100
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          100
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Meowscarada Beedrill ex",
+          100
+        ],
+        [
+          "Silvally Rampardos",
+          100
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Miltank",
+          0
+        ],
+        [
+          "Meowscarada Tyrogue",
+          0
+        ],
+        [
+          "Donphan ex Lucario",
+          0
+        ],
+        [
+          "Arceus ex Oricorio",
+          0
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          0
+        ],
+        [
+          "Alolan Raichu ex Raikou ex",
+          0
+        ],
+        [
+          "Guzzlord ex",
+          0
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          0
+        ],
+        [
+          "Greninja Suicune ex",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Suicune ex Milotic",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          33.33
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          36.36
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          50
+        ],
+        [
+          "Guzzlord ex",
+          25
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          100
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          100
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          0
+        ],
+        [
+          "Silvally Darkrai ex",
+          100
+        ],
+        [
+          "Darkrai ex Crobat ex",
+          100
+        ],
+        [
+          "Suicune ex Primarina ex",
+          100
+        ],
+        [
+          "Poliwrath ex Lucario",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          100
+        ],
+        [
+          "Jumpluff ex Galarian Cursola",
+          100
+        ],
+        [
+          "Arceus ex Pichu",
+          100
+        ],
+        [
+          "Lugia ex Altaria",
+          100
+        ],
+        [
+          "Darkrai ex Silvally",
+          100
+        ],
+        [
+          "Suicune ex Giratina ex",
+          100
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          100
+        ],
+        [
+          "Solgaleo ex Suicune ex",
+          100
+        ],
+        [
+          "Silvally Pichu",
+          100
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Pikachu ex",
+          0
+        ],
+        [
+          "Arceus ex Alolan Raichu ex",
+          0
+        ],
+        [
+          "Arceus ex Crobat",
+          0
+        ],
+        [
+          "Greninja Giratina ex",
+          0
+        ],
+        [
+          "Kingdra ex Greninja",
+          0
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ],
+        [
+          "Infernape ex Entei ex",
+          0
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          0
+        ],
+        [
+          "Poliwrath ex Politoed",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Buzzwole ex Celesteela",
+      "matchups": [
+        [
+          "Guzzlord ex",
+          50
+        ],
+        [
+          "Suicune ex Greninja",
+          12.5
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          50
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          0
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          33.33
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Arceus ex Pichu",
+          50
+        ],
+        [
+          "Raikou ex Magnezone",
+          50
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          50
+        ],
+        [
+          "Suicune ex Giratina ex",
+          50
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          0
+        ],
+        [
+          "Silvally Darkrai ex",
+          100
+        ],
+        [
+          "Skarmory ex Skarmory",
+          100
+        ],
+        [
+          "Altaria Silvally",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          100
+        ],
+        [
+          "Lanturn ex",
+          100
+        ],
+        [
+          "Donphan ex Lucario",
+          100
+        ],
+        [
+          "Weavile ex Darkrai ex",
+          100
+        ],
+        [
+          "Magcargo",
+          100
+        ],
+        [
+          "Silvally Rampardos",
+          100
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          100
+        ],
+        [
+          "Miltank",
+          100
+        ],
+        [
+          "Dragonite ex Dragonite",
+          100
+        ],
+        [
+          "Alolan Raichu ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Flareon ex Flareon",
+          0
+        ],
+        [
+          "Rampardos Silvally",
+          0
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          0
+        ],
+        [
+          "Sylveon ex Mismagius",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          0
+        ],
+        [
+          "Flareon ex Magby",
+          0
+        ],
+        [
+          "Wigglytuff ex Arceus ex",
+          0
+        ],
+        [
+          "Arceus ex Oricorio",
+          0
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Donphan ex Rampardos",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          36.36
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          62.5
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          14.29
+        ],
+        [
+          "Flareon ex Eevee ex",
+          75
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Suicune ex Giratina ex",
+          0
+        ],
+        [
+          "Arceus ex Pichu",
+          100
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          100
+        ],
+        [
+          "Raikou ex Magnezone",
+          100
+        ],
+        [
+          "Donphan ex Rampardos",
+          50
+        ],
+        [
+          "Dragonite ex Dragonite",
+          50
+        ],
+        [
+          "Guzzlord ex",
+          50
+        ],
+        [
+          "Meowscarada",
+          0
+        ],
+        [
+          "Poliwrath ex Politoed",
+          100
+        ],
+        [
+          "Gyarados ex Miltank",
+          100
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Donphan ex Lucario",
+          100
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          100
+        ],
+        [
+          "Raikou ex Greninja",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Silvally Arceus ex",
+          100
+        ],
+        [
+          "Pikachu ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          100
+        ],
+        [
+          "Sylveon ex Togekiss",
+          100
+        ],
+        [
+          "Silvally Rampardos",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Dragonite ex Sylveon ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          35.71
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          72.73
+        ],
+        [
+          "Suicune ex Giratina ex",
+          60
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          40
+        ],
+        [
+          "Flareon ex Eevee ex",
+          100
+        ],
+        [
+          "Arceus ex Pichu",
+          100
+        ],
+        [
+          "Raikou ex Magnezone",
+          50
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          50
+        ],
+        [
+          "Donphan ex Lucario",
+          0
+        ],
+        [
+          "Umbreon ex Umbreon",
+          100
+        ],
+        [
+          "Magnezone Raikou ex",
+          100
+        ],
+        [
+          "Sylveon ex Mew ex",
+          100
+        ],
+        [
+          "Primarina ex Seaking",
+          100
+        ],
+        [
+          "Suicune ex Primarina ex",
+          100
+        ],
+        [
+          "Flareon ex Jolteon",
+          100
+        ],
+        [
+          "Pikachu ex",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Darkrai ex Silvally",
+          0
+        ],
+        [
+          "Magnezone Oricorio",
+          0
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          0
+        ],
+        [
+          "Lugia ex Silvally",
+          0
+        ],
+        [
+          "Arceus ex Lucario ex",
+          0
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          0
+        ],
+        [
+          "Altaria Silvally",
+          0
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          0
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Giratina ex Latias",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Altaria Silvally",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          37.5
+        ],
+        [
+          "Suicune ex Greninja",
+          14.29
+        ],
+        [
+          "Suicune ex Giratina ex",
+          16.67
+        ],
+        [
+          "Silvally Pichu",
+          100
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          50
+        ],
+        [
+          "Porygon-Z Mantyke",
+          50
+        ],
+        [
+          "Arceus ex Pichu",
+          0
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Rampardos Hitmonchan",
+          100
+        ],
+        [
+          "Sylveon ex Ampharos",
+          100
+        ],
+        [
+          "Lanturn ex Pichu",
+          100
+        ],
+        [
+          "Leafeon ex Alolan Exeggutor",
+          100
+        ],
+        [
+          "Arceus ex Tapu Koko ex",
+          100
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          100
+        ],
+        [
+          "Moltres ex Charizard ex",
+          100
+        ],
+        [
+          "Kingdra ex Greninja",
+          100
+        ],
+        [
+          "Darkrai ex Miltank",
+          100
+        ],
+        [
+          "Dragonite ex Dragonite",
+          100
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          0
+        ],
+        [
+          "Wugtrio ex Suicune ex",
+          0
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          0
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          0
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          0
+        ],
+        [
+          "Silvally Altaria",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Greninja Darkrai ex",
+          0
+        ],
+        [
+          "Guzzlord ex",
+          0
+        ],
+        [
+          "Sylveon ex Stoutland",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Poliwrath ex Politoed",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          60
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          20
+        ],
+        [
+          "Suicune ex Giratina ex",
+          66.67
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          33.33
+        ],
+        [
+          "Arceus ex Pichu",
+          50
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          0
+        ],
+        [
+          "Greninja Oricorio",
+          0
+        ],
+        [
+          "Aerodactyl ex Rampardos",
+          100
+        ],
+        [
+          "Flareon ex Flareon",
+          100
+        ],
+        [
+          "Suicune ex Silvally",
+          100
+        ],
+        [
+          "Garchomp ex Rampardos",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Blissey ex Blissey",
+          100
+        ],
+        [
+          "Decidueye ex",
+          100
+        ],
+        [
+          "Suicune ex Milotic",
+          100
+        ],
+        [
+          "Lugia ex Ho-Oh ex",
+          100
+        ],
+        [
+          "Guzzlord ex",
+          100
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Lugia ex Altaria",
+          0
+        ],
+        [
+          "Charizard ex Moltres ex",
+          0
+        ],
+        [
+          "Crobat ex Darkrai ex",
+          0
+        ],
+        [
+          "Sylveon ex Giratina ex",
+          0
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          0
+        ],
+        [
+          "Luxray Oricorio",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Flareon ex Leafeon ex",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          75
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          50
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          0
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          0
+        ],
+        [
+          "Umbreon ex Darkrai ex",
+          100
+        ],
+        [
+          "Sylveon ex Alolan Exeggutor",
+          100
+        ],
+        [
+          "Silvally Pichu",
+          100
+        ],
+        [
+          "Suicune ex Greninja",
+          100
+        ],
+        [
+          "Mismagius ex Sylveon ex",
+          100
+        ],
+        [
+          "Gyarados Suicune ex",
+          100
+        ],
+        [
+          "Silvally Oricorio",
+          0
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          0
+        ],
+        [
+          "Arceus ex Pichu",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ],
+        [
+          "Meowscarada",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Darkrai ex Miltank",
+      "matchups": [
+        [
+          "Espeon ex Sylveon ex",
+          25
+        ],
+        [
+          "Arceus ex Pichu",
+          66.67
+        ],
+        [
+          "Meowscarada",
+          66.67
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          0
+        ],
+        [
+          "Suicune ex Greninja",
+          0
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Suicune ex Palkia ex",
+          100
+        ],
+        [
+          "Entei ex Magby",
+          100
+        ],
+        [
+          "Luxray Pichu",
+          100
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          100
+        ],
+        [
+          "Guzzlord ex",
+          100
+        ],
+        [
+          "Arceus ex Raikou ex",
+          100
+        ],
+        [
+          "Tapu Koko ex",
+          100
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Jumpluff ex Raikou ex",
+          0
+        ],
+        [
+          "Arceus ex Zapdos ex",
+          0
+        ],
+        [
+          "Zoroark Silvally",
+          0
+        ],
+        [
+          "Donphan ex Tyrogue",
+          0
+        ],
+        [
+          "Donphan ex Donphan",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Darkrai ex Silvally",
+          0
+        ],
+        [
+          "Greninja Oricorio",
+          0
+        ],
+        [
+          "Silvally Rampardos",
+          0
+        ],
+        [
+          "Luxray Raikou ex",
+          0
+        ],
+        [
+          "Meowscarada Decidueye ex",
+          0
+        ],
+        [
+          "Altaria Silvally",
+          0
+        ],
+        [
+          "Flareon ex Sylveon ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Silvally Arceus ex",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          50
+        ],
+        [
+          "Suicune ex Giratina ex",
+          37.5
+        ],
+        [
+          "Suicune ex Greninja",
+          42.86
+        ],
+        [
+          "Raikou ex Magnezone",
+          75
+        ],
+        [
+          "Silvally Pichu",
+          100
+        ],
+        [
+          "Silvally Oricorio",
+          50
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          50
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Suicune ex Sylveon ex",
+          100
+        ],
+        [
+          "Arceus ex Raikou ex",
+          100
+        ],
+        [
+          "Suicune ex Palkia ex",
+          100
+        ],
+        [
+          "Giratina ex",
+          100
+        ],
+        [
+          "Toucannon",
+          100
+        ],
+        [
+          "Arceus ex Pichu",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          0
+        ],
+        [
+          "Silvally Rampardos",
+          0
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ],
+        [
+          "Dragonite ex Dragonite",
+          0
+        ],
+        [
+          "Weavile ex Darkrai ex",
+          0
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Suicune ex Gyarados",
+      "matchups": [
+        [
+          "Espeon ex Sylveon ex",
+          20
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          50
+        ],
+        [
+          "Greninja Suicune ex",
+          50
+        ],
+        [
+          "Suicune ex Greninja",
+          0
+        ],
+        [
+          "Arceus ex Oricorio",
+          0
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          100
+        ],
+        [
+          "Entei ex Flareon ex",
+          100
+        ],
+        [
+          "Entei ex Magby",
+          100
+        ],
+        [
+          "Jumpluff ex Infernape ex",
+          100
+        ],
+        [
+          "Darkrai ex Tyranitar",
+          100
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          100
+        ],
+        [
+          "Eevee ex Espeon ex",
+          100
+        ],
+        [
+          "Moltres ex Charizard ex",
+          100
+        ],
+        [
+          "Sylveon ex Stoutland",
+          100
+        ],
+        [
+          "Greninja Oricorio",
+          0
+        ],
+        [
+          "Mismagius ex Sylveon ex",
+          0
+        ],
+        [
+          "Sylveon ex Suicune ex",
+          0
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ],
+        [
+          "Lugia ex Altaria",
+          0
+        ],
+        [
+          "Silvally Oricorio",
+          0
+        ],
+        [
+          "Gallade ex Hitmontop",
+          0
+        ],
+        [
+          "Altaria Darkrai ex",
+          0
+        ],
+        [
+          "Raikou ex Arceus ex",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ],
+        [
+          "Giratina ex",
+          0
+        ],
+        [
+          "Umbreon ex Sylveon ex",
+          0
+        ],
+        [
+          "Solgaleo ex Suicune ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Guzzlord ex Nihilego",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          60
+        ],
+        [
+          "Suicune ex Greninja",
+          55.56
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          66.67
+        ],
+        [
+          "Suicune ex Giratina ex",
+          33.33
+        ],
+        [
+          "Greninja Oricorio",
+          50
+        ],
+        [
+          "Guzzlord ex",
+          50
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Giratina ex Greninja",
+          100
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          100
+        ],
+        [
+          "Meowscarada Decidueye ex",
+          100
+        ],
+        [
+          "Meowscarada",
+          100
+        ],
+        [
+          "Electivire Pichu",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Raikou ex Magnezone",
+          100
+        ],
+        [
+          "Magcargo",
+          100
+        ],
+        [
+          "Meowscarada Pheromosa",
+          100
+        ],
+        [
+          "Glaceon ex Palkia ex",
+          0
+        ],
+        [
+          "Pikachu ex Zapdos ex",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ],
+        [
+          "Dragonite ex Dragonite",
+          0
+        ],
+        [
+          "Incineroar ex Entei ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Arceus ex Tapu Koko ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          45.45
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          80
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          66.67
+        ],
+        [
+          "Mewtwo ex Gardevoir",
+          100
+        ],
+        [
+          "Sylveon ex Solgaleo ex",
+          50
+        ],
+        [
+          "Arceus ex Pichu",
+          0
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ],
+        [
+          "Greninja Oricorio",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          100
+        ],
+        [
+          "Weavile ex Darkrai ex",
+          100
+        ],
+        [
+          "Kingdra ex Greninja",
+          100
+        ],
+        [
+          "Suicune ex Giratina ex",
+          100
+        ],
+        [
+          "Giratina ex",
+          100
+        ],
+        [
+          "Magnezone Raikou ex",
+          100
+        ],
+        [
+          "Alolan Exeggutor Tsareena",
+          100
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          100
+        ],
+        [
+          "Jumpluff ex Zeraora",
+          0
+        ],
+        [
+          "Flareon ex Eevee ex",
+          0
+        ],
+        [
+          "Umbreon ex Eevee ex",
+          0
+        ],
+        [
+          "Altaria Silvally",
+          0
+        ],
+        [
+          "Umbreon ex Sylveon ex",
+          0
+        ],
+        [
+          "Suicune ex Primarina",
+          0
+        ],
+        [
+          "Silvally Rampardos",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Pikachu ex Tapu Koko ex",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          44.44
+        ],
+        [
+          "Suicune ex Greninja",
+          28.57
+        ],
+        [
+          "Suicune ex Giratina ex",
+          75
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          25
+        ],
+        [
+          "Flareon ex Eevee ex",
+          100
+        ],
+        [
+          "Guzzlord ex",
+          50
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Aerodactyl ex Rampardos",
+          100
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          100
+        ],
+        [
+          "Silvally Pikachu ex",
+          100
+        ],
+        [
+          "Alolan Exeggutor Pichu",
+          100
+        ],
+        [
+          "Entei ex Typhlosion",
+          100
+        ],
+        [
+          "Beedrill ex Beedrill",
+          100
+        ],
+        [
+          "Solgaleo ex Suicune ex",
+          100
+        ],
+        [
+          "Naganadel Guzzlord ex",
+          100
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Raikou ex Decidueye ex",
+          100
+        ],
+        [
+          "Poliwrath ex Lucario",
+          100
+        ],
+        [
+          "Jumpluff ex Darkrai ex",
+          0
+        ],
+        [
+          "Arceus ex Pichu",
+          0
+        ],
+        [
+          "Darkrai ex Silvally",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Raikou ex Tapu Koko ex",
+          0
+        ],
+        [
+          "Sylveon ex Eevee ex",
+          0
+        ],
+        [
+          "Luxray Pichu",
+          0
+        ],
+        [
+          "Zapdos ex Arceus ex",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Suicune ex Sylveon ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          37.5
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          20
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          66.67
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          33.33
+        ],
+        [
+          "Silvally Pichu",
+          33.33
+        ],
+        [
+          "Crobat ex Sylveon ex",
+          100
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          50
+        ],
+        [
+          "Suicune ex Giratina ex",
+          50
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Rampardos Silvally",
+          100
+        ],
+        [
+          "Jumpluff ex Suicune ex",
+          100
+        ],
+        [
+          "Raikou ex Magnezone",
+          100
+        ],
+        [
+          "Dragonite",
+          100
+        ],
+        [
+          "Leafeon ex Sylveon ex",
+          100
+        ],
+        [
+          "Miltank",
+          100
+        ],
+        [
+          "Flareon ex Eevee ex",
+          100
+        ],
+        [
+          "Poliwrath ex Lucario",
+          0
+        ],
+        [
+          "Silvally Arceus ex",
+          0
+        ],
+        [
+          "Silvally Pikachu ex",
+          0
+        ],
+        [
+          "Venusaur ex",
+          0
+        ],
+        [
+          "Arceus ex Pichu",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Crobat ex Darkrai ex",
+      "matchups": [
+        [
+          "Suicune ex Greninja",
+          28.57
+        ],
+        [
+          "Arceus ex Pichu",
+          60
+        ],
+        [
+          "Giratina ex Darkrai ex",
+          25
+        ],
+        [
+          "Raikou ex Magnezone",
+          100
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          50
+        ],
+        [
+          "Suicune ex Giratina ex",
+          50
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          50
+        ],
+        [
+          "Slurpuff Alcremie",
+          50
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          0
+        ],
+        [
+          "Tapu Koko ex Oricorio",
+          0
+        ],
+        [
+          "Suicune ex Milotic",
+          0
+        ],
+        [
+          "Poliwrath ex Politoed",
+          100
+        ],
+        [
+          "Garchomp ex Garchomp",
+          100
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          100
+        ],
+        [
+          "Dragonite ex Sylveon ex",
+          100
+        ],
+        [
+          "Altaria Silvally",
+          100
+        ],
+        [
+          "Leafeon ex Alolan Exeggutor",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          100
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          100
+        ],
+        [
+          "Exeggutor ex Alolan Exeggutor",
+          100
+        ],
+        [
+          "Guzzlord ex",
+          100
+        ],
+        [
+          "Charizard ex Moltres ex",
+          0
+        ],
+        [
+          "Gyarados Corsola",
+          0
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Greninja Oricorio",
+          0
+        ],
+        [
+          "Arceus ex Lucario ex",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Kingdra ex Milotic",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Snorlax ex Ho-Oh ex",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          100
+        ],
+        [
+          "Suicune ex Greninja",
+          0
+        ],
+        [
+          "Greninja Oricorio",
+          0
+        ],
+        [
+          "Suicune ex Giratina ex",
+          0
+        ],
+        [
+          "Blissey ex Blissey",
+          100
+        ],
+        [
+          "Garchomp Giratina ex",
+          100
+        ],
+        [
+          "Raikou ex Arceus ex",
+          100
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          100
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          100
+        ],
+        [
+          "Greninja Suicune ex",
+          100
+        ],
+        [
+          "Umbreon ex Malamar",
+          0
+        ],
+        [
+          "Guzzlord ex Naganadel",
+          0
+        ],
+        [
+          "Umbreon ex Sylveon ex",
+          0
+        ],
+        [
+          "Donphan ex Rampardos",
+          0
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Dragonite ex Dragonite",
+          0
+        ],
+        [
+          "Espeon ex Eevee ex",
+          0
+        ],
+        [
+          "Pikachu ex",
+          0
+        ],
+        [
+          "Jumpluff ex Snorlax ex",
+          0
+        ],
+        [
+          "Sylveon ex Greninja",
+          0
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          0
+        ],
+        [
+          "Buzzwole ex Shuckle ex",
+          0
+        ],
+        [
+          "Decidueye ex Meowscarada",
+          0
+        ],
+        [
+          "Guzzlord ex",
+          0
+        ],
+        [
+          "Raikou ex Magnezone",
+          0
+        ]
+      ]
+    },
+    {
+      "deck": "Greninja Suicune ex",
+      "matchups": [
+        [
+          "Giratina ex Darkrai ex",
+          66.67
+        ],
+        [
+          "Suicune ex Greninja",
+          60
+        ],
+        [
+          "Arceus ex Pichu",
+          25
+        ],
+        [
+          "Guzzlord ex",
+          66.67
+        ],
+        [
+          "Silvally Oricorio",
+          50
+        ],
+        [
+          "Suicune ex Gyarados",
+          50
+        ],
+        [
+          "Greninja Oricorio",
+          0
+        ],
+        [
+          "Silvally Pichu",
+          0
+        ],
+        [
+          "Aerodactyl ex Dugtrio",
+          100
+        ],
+        [
+          "Poliwrath ex Garchomp",
+          100
+        ],
+        [
+          "Raikou ex Magnezone",
+          100
+        ],
+        [
+          "Suicune ex Giratina ex",
+          100
+        ],
+        [
+          "Raikou ex Oricorio",
+          100
+        ],
+        [
+          "Espeon ex Sylveon ex",
+          100
+        ],
+        [
+          "Giratina ex Mewtwo ex",
+          100
+        ],
+        [
+          "Raikou ex Pikachu ex",
+          100
+        ],
+        [
+          "Charizard ex Moltres ex",
+          100
+        ],
+        [
+          "Buzzwole ex Celesteela",
+          0
+        ],
+        [
+          "Jumpluff ex Oricorio",
+          0
+        ],
+        [
+          "Darkrai ex Arceus ex",
+          0
+        ],
+        [
+          "Buzzwole ex Pheromosa",
+          0
+        ],
+        [
+          "Silvally Rampardos",
+          0
+        ],
+        [
+          "Snorlax ex Ho-Oh ex",
+          0
+        ],
+        [
+          "Charizard ex Sylveon ex",
+          0
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-09-04T03:11:18.947Z",
+  "coverage": 78.13999999999999
+}
