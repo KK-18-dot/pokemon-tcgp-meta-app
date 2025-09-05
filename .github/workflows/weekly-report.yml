@@ -71,11 +71,11 @@ jobs:
             exit 0
           fi
           
-          REPORT_DATE=$(date +'%Y-%m-%d' --date='Asia/Tokyo')
+          REPORT_DATE=$(TZ=Asia/Tokyo date +'%Y-%m-%d')
           git commit -m "🗓️ Weekly Report: $REPORT_DATE
 
           📊 Environment-Adaptive Meta Score Analysis
-          📅 Generated: $(date +'%Y/%m/%d %H:%M' --date='Asia/Tokyo')
+          📅 Generated: $(TZ=Asia/Tokyo date +'%Y/%m/%d %H:%M')
           🎯 Coverage: 80% environment coverage analysis
           ⚔️ Matchup data: Full collection
           🤖 Generated with Claude Code"
