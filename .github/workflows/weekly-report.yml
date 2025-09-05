@@ -133,15 +133,17 @@ jobs:
 
       - name: Clean old files
         run: |
-          cd limitless-tcg-scraper
-          npm run clean
+          echo "🧹 Cleaning old files..."
+          npm run clean || echo "Clean script not found, continuing..."
           node -e "
           const { DataStorage } = require('./dist/storage/database.js');
           const storage = new DataStorage();
           storage.cleanOldFiles(30).then(() => {
-            console.log('Old files cleaned');
-          }).catch(console.error);
-          "
+            console.log('✅ Old files cleaned');
+          }).catch((error) => {
+            console.log('⚠️ Clean old files failed:', error.message);
+          });
+          " || echo "⚠️ Old files cleanup failed, continuing..."
 
   # レポート品質チェック
   quality-check:
@@ -154,8 +156,9 @@ jobs:
 
     - name: Check report completeness
       run: |
-        echo "Checking report completeness..."
-        cd limitless-tcg-scraper
+        echo "📋 Checking report completeness..."
+        pwd
+        ls -la
         
         # レポートの必須要素をチェック
         if [ -f "data/latest_report.md" ]; then
