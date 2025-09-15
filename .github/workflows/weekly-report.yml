@@ -131,6 +131,14 @@ jobs:
             weekly-reports/*
           retention-days: 90
 
+      - name: Local sync notification
+        run: |
+          echo "🔄 Local sync ready - run 'npm run local-sync' to sync data to local machine"
+          echo "📁 Data available in:"
+          echo "  - data/latest.json"
+          echo "  - data/latest_report.md" 
+          echo "  - weekly-reports/"
+          
       - name: Clean old files
         run: |
           echo "🧹 Cleaning old files..."

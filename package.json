@@ -16,7 +16,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "echo \"Lint check passed - TypeScript compilation succeeded\"",
     "clean": "rm -rf dist data/*.json data/*.csv",
-    "analysis-standalone": "tsx src/scripts/fullAnalysis.ts"
+    "analysis-standalone": "tsx src/scripts/fullAnalysis.ts",
+    "local-sync": "tsx src/local-sync.ts",
+    "advanced-analysis": "tsx src/advanced-meta-analysis.ts"
   },
   "keywords": [
     "tcg",
