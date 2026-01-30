@@ -1,0 +1,5 @@
+{
+  "timestamp": "2026-01-30T06:42:49.518Z",
+  "error": "デッキデータの取得に失敗しました",
+  "stack": "Error: デッキデータの取得に失敗しました\n    at generateWeeklyReport (/home/runner/work/pokemon-tcgp-meta-app/pokemon-tcgp-meta-app/src/weekly-report.ts:26:13)"
+}
