@@ -1,6 +1,6 @@
 # ポケモンカード環境分析レポート
 ## 環境適応型メタスコア算出法による分析
-生成日時: 2026/10/16 19:39:35
+生成日時: 2026/10/23 20:12:01
 環境カバー率: 80.1%
 分析対象デッキ数: 57個
 
@@ -9,12 +9,12 @@
 ## 🏆 推奨トーナメント構成
 
 ### メインデッキ
-**Greninja Mega Absol ex**
+**Magnezone Miraidon ex**
 - Tier: A (実用可能)
-- 期待勝率: 52.88%
-- 全体勝率: 52.88%
-- 環境シェア: 0.4%
-- 信頼度: 80%
+- 期待勝率: 52.41%
+- 全体勝率: 52.41%
+- 環境シェア: 3.0%
+- 信頼度: 100%
 
 
 
@@ -32,34 +32,34 @@
 
 ### A階層 (実用可能)
 
-1. **Greninja Mega Absol ex**
-   - 期待勝率: 52.9% (基本: 52.9%)
-   - 環境シェア: 0.4% (特殊)
-   - 信頼度: 80%
-
-2. **Miraidon ex Magnezone**
-   - 期待勝率: 52.6% (基本: 52.6%)
-   - 環境シェア: 0.8% (特殊)
-   - 信頼度: 90%
-
-3. **Magnezone Miraidon ex**
-   - 期待勝率: 52.3% (基本: 52.3%)
-   - 環境シェア: 2.8% (実用)
-   - 信頼度: 100%
-
-4. **Hoopa ex Mega Absol ex**
-   - 期待勝率: 52.2% (基本: 52.2%)
+1. **Magnezone Miraidon ex**
+   - 期待勝率: 52.4% (基本: 52.4%)
    - 環境シェア: 3.0% (実用)
    - 信頼度: 100%
 
-5. **Mega Sharpedo ex Chien-Pao ex**
-   - 期待勝率: 52.1% (基本: 52.1%)
+2. **Greninja Mega Absol ex**
+   - 期待勝率: 52.3% (基本: 52.3%)
+   - 環境シェア: 0.4% (特殊)
+   - 信頼度: 80%
+
+3. **Mega Sharpedo ex Chien-Pao ex**
+   - 期待勝率: 51.9% (基本: 51.9%)
    - 環境シェア: 0.5% (特殊)
    - 信頼度: 80%
 
-6. **Mega Altaria ex Espeon**
+4. **Mega Altaria ex Espeon**
    - 期待勝率: 51.9% (基本: 51.9%)
-   - 環境シェア: 7.6% (主力)
+   - 環境シェア: 7.8% (主力)
+   - 信頼度: 100%
+
+5. **Dedenne ex Indeedee ex**
+   - 期待勝率: 51.9% (基本: 51.9%)
+   - 環境シェア: 2.4% (実用)
+   - 信頼度: 100%
+
+6. **Hoopa ex Mega Absol ex**
+   - 期待勝率: 51.8% (基本: 51.8%)
+   - 環境シェア: 3.1% (実用)
    - 信頼度: 100%
 
 7. **Mega Altaria ex Happiny**
@@ -67,30 +67,30 @@
    - 環境シェア: 0.7% (特殊)
    - 信頼度: 90%
 
-8. **Dedenne ex Indeedee ex**
-   - 期待勝率: 51.8% (基本: 51.8%)
-   - 環境シェア: 2.3% (実用)
-   - 信頼度: 100%
-
-9. **Mega Blaziken ex**
+8. **Mega Blaziken ex**
    - 期待勝率: 51.7% (基本: 51.7%)
-   - 環境シェア: 2.7% (実用)
+   - 環境シェア: 2.6% (実用)
    - 信頼度: 100%
 
-10. **Mega Sceptile ex Greninja**
-   - 期待勝率: 51.5% (基本: 51.5%)
+9. **Mega Sceptile ex Greninja**
+   - 期待勝率: 51.7% (基本: 51.7%)
    - 環境シェア: 1.9% (特殊)
    - 信頼度: 100%
 
-11. **Mega Sharpedo ex Gyarados**
-   - 期待勝率: 51.4% (基本: 51.4%)
+10. **Hoopa ex Mega Sableye ex**
+   - 期待勝率: 51.7% (基本: 51.6%)
+   - 環境シェア: 0.5% (特殊)
+   - 信頼度: 80%
+
+11. **Miraidon ex Magnezone**
+   - 期待勝率: 51.6% (基本: 51.6%)
    - 環境シェア: 0.9% (特殊)
    - 信頼度: 90%
 
-12. **Suicune ex Baxcalibur**
-   - 期待勝率: 51.4% (基本: 51.4%)
-   - 環境シェア: 4.8% (実用)
-   - 信頼度: 100%
+12. **Mega Sharpedo ex Gyarados**
+   - 期待勝率: 51.5% (基本: 51.5%)
+   - 環境シェア: 0.9% (特殊)
+   - 信頼度: 90%
 
 13. **Indeedee ex Giratina ex**
    - 期待勝率: 51.3% (基本: 51.3%)
@@ -98,180 +98,180 @@
    - 信頼度: 70%
 
 14. **Milotic ex Eevee ex**
-   - 期待勝率: 51.2% (基本: 51.2%)
-   - 環境シェア: 1.0% (特殊)
+   - 期待勝率: 51.3% (基本: 51.3%)
+   - 環境シェア: 0.9% (特殊)
    - 信頼度: 90%
 
 15. **Vespiquen ex Shuckle ex**
-   - 期待勝率: 51.2% (基本: 51.2%)
+   - 期待勝率: 51.3% (基本: 51.3%)
    - 環境シェア: 4.3% (実用)
    - 信頼度: 100%
 
-16. **Mega Blaziken ex Greninja**
-   - 期待勝率: 51.2% (基本: 51.1%)
-   - 環境シェア: 1.7% (特殊)
+16. **Suicune ex Baxcalibur**
+   - 期待勝率: 51.2% (基本: 51.2%)
+   - 環境シェア: 4.8% (実用)
    - 信頼度: 100%
-
-17. **Hoopa ex Mega Sableye ex**
-   - 期待勝率: 51.1% (基本: 51.0%)
-   - 環境シェア: 0.5% (特殊)
-   - 信頼度: 80%
 
 
 ### B階層 (条件付き採用)
 
-1. **Mega Manectric ex Heliolisk**
-   - 期待勝率: 50.9% (基本: 50.9%)
+1. **Butterfree Mega Sceptile ex**
+   - 期待勝率: 50.8% (基本: 50.8%)
+   - 環境シェア: 5.0% (実用)
+   - 信頼度: 100%
+
+2. **Mega Blaziken ex Greninja**
+   - 期待勝率: 50.8% (基本: 50.8%)
+   - 環境シェア: 1.7% (特殊)
+   - 信頼度: 100%
+
+3. **Mega Manectric ex Heliolisk**
+   - 期待勝率: 50.7% (基本: 50.7%)
    - 環境シェア: 2.2% (実用)
    - 信頼度: 100%
 
-2. **Butterfree Mega Sceptile ex**
-   - 期待勝率: 50.8% (基本: 50.8%)
-   - 環境シェア: 5.0% (主力)
-   - 信頼度: 100%
-
-3. **Dragonair Mega Rayquaza ex**
+4. **Mega Diancie ex Carbink**
    - 期待勝率: 50.7% (基本: 50.7%)
-   - 環境シェア: 3.5% (実用)
-   - 信頼度: 100%
-
-4. **Mega Charizard Y ex Entei ex**
-   - 期待勝率: 50.4% (基本: 50.4%)
-   - 環境シェア: 2.4% (実用)
-   - 信頼度: 100%
-
-5. **Zoroark ex Mega Absol ex**
-   - 期待勝率: 50.2% (基本: 50.2%)
-   - 環境シェア: 1.2% (特殊)
-   - 信頼度: 90%
-
-6. **Hydreigon Mega Absol ex**
-   - 期待勝率: 49.9% (基本: 49.9%)
-   - 環境シェア: 3.0% (実用)
-   - 信頼度: 100%
-
-7. **Mega Altaria ex Igglybuff**
-   - 期待勝率: 49.6% (基本: 49.6%)
    - 環境シェア: 0.4% (特殊)
    - 信頼度: 80%
 
-8. **Mega Altaria ex Greninja**
-   - 期待勝率: 49.6% (基本: 49.6%)
-   - 環境シェア: 2.7% (実用)
-   - 信頼度: 100%
-
-9. **Mega Diancie ex Carbink**
-   - 期待勝率: 49.6% (基本: 49.6%)
-   - 環境シェア: 0.3% (特殊)
+5. **Hoopa ex Greninja**
+   - 期待勝率: 50.5% (基本: 50.5%)
+   - 環境シェア: 0.5% (特殊)
    - 信頼度: 80%
 
-10. **Mega Lucario ex Lucario**
-   - 期待勝率: 49.3% (基本: 49.3%)
-   - 環境シェア: 7.7% (主力)
+6. **Dragonair Mega Rayquaza ex**
+   - 期待勝率: 50.4% (基本: 50.4%)
+   - 環境シェア: 3.5% (実用)
    - 信頼度: 100%
 
-11. **Mega Altaria ex**
-   - 期待勝率: 49.2% (基本: 49.2%)
+7. **Mega Charizard Y ex Entei ex**
+   - 期待勝率: 50.4% (基本: 50.4%)
+   - 環境シェア: 2.3% (実用)
+   - 信頼度: 100%
+
+8. **Hydreigon Mega Absol ex**
+   - 期待勝率: 50.0% (基本: 50.0%)
+   - 環境シェア: 3.0% (実用)
+   - 信頼度: 100%
+
+9. **Mega Altaria ex Greninja**
+   - 期待勝率: 49.9% (基本: 49.9%)
+   - 環境シェア: 2.8% (実用)
+   - 信頼度: 100%
+
+10. **Zoroark ex Mega Absol ex**
+   - 期待勝率: 49.7% (基本: 49.7%)
+   - 環境シェア: 1.2% (特殊)
+   - 信頼度: 90%
+
+11. **Mega Lucario ex Lucario**
+   - 期待勝率: 49.2% (基本: 49.1%)
+   - 環境シェア: 7.6% (主力)
+   - 信頼度: 100%
+
+12. **Mega Altaria ex**
+   - 期待勝率: 49.0% (基本: 49.0%)
    - 環境シェア: 0.8% (特殊)
    - 信頼度: 90%
 
 
 ### C階層 (非推奨)
 
-1. **Magnezone ex Magnezone**
+1. **Team Rocket's Weezing ex Hoopa ex**
    - 期待勝率: 48.8% (基本: 48.8%)
+   - 環境シェア: 2.2% (実用)
+   - 信頼度: 100%
+
+2. **Magnezone ex Magnezone**
+   - 期待勝率: 48.7% (基本: 48.7%)
    - 環境シェア: 1.2% (特殊)
    - 信頼度: 90%
 
-2. **Team Rocket's Weezing ex Hoopa ex**
-   - 期待勝率: 48.8% (基本: 48.8%)
-   - 環境シェア: 2.3% (実用)
-   - 信頼度: 100%
-
-3. **Mega Blaziken ex Castform Sunny Form**
-   - 期待勝率: 48.6% (基本: 48.6%)
-   - 環境シェア: 0.3% (特殊)
+3. **Mega Altaria ex Igglybuff**
+   - 期待勝率: 48.3% (基本: 48.3%)
+   - 環境シェア: 0.4% (特殊)
    - 信頼度: 80%
 
-4. **Hoopa ex Greninja**
-   - 期待勝率: 48.5% (基本: 48.5%)
-   - 環境シェア: 0.5% (特殊)
+4. **Mega Blaziken ex Castform Sunny Form**
+   - 期待勝率: 48.1% (基本: 48.1%)
+   - 環境シェア: 0.3% (特殊)
    - 信頼度: 80%
 
 5. **Mega Scizor ex Revavroom**
-   - 期待勝率: 48.0% (基本: 48.0%)
+   - 期待勝率: 47.8% (基本: 47.8%)
    - 環境シェア: 0.3% (特殊)
    - 信頼度: 70%
 
-6. **Mega Charizard X ex Mega Charizard Y ex**
-   - 期待勝率: 47.9% (基本: 47.9%)
-   - 環境シェア: 0.5% (特殊)
-   - 信頼度: 80%
-
-7. **Dedenne ex Pichu**
-   - 期待勝率: 47.5% (基本: 47.5%)
-   - 環境シェア: 0.3% (特殊)
-   - 信頼度: 70%
-
-8. **Flygon ex**
+6. **Flygon ex**
    - 期待勝率: 47.4% (基本: 47.4%)
    - 環境シェア: 0.4% (特殊)
    - 信頼度: 80%
 
-9. **Meowscarada ex Meowscarada**
-   - 期待勝率: 46.8% (基本: 46.8%)
-   - 環境シェア: 0.6% (特殊)
+7. **Mega Charizard X ex Mega Charizard Y ex**
+   - 期待勝率: 47.3% (基本: 47.3%)
+   - 環境シェア: 0.5% (特殊)
    - 信頼度: 80%
 
-10. **Zoroark ex Team Rocket's Weezing ex**
-   - 期待勝率: 46.8% (基本: 46.8%)
-   - 環境シェア: 0.2% (特殊)
-   - 信頼度: 70%
+8. **Dedenne ex Pichu**
+   - 期待勝率: 47.1% (基本: 47.1%)
+   - 環境シェア: 0.3% (特殊)
+   - 信頼度: 80%
 
-11. **Beautifly Dustox**
+9. **Beautifly Dustox**
    - 期待勝率: 46.6% (基本: 46.6%)
    - 環境シェア: 0.8% (特殊)
    - 信頼度: 90%
 
+10. **Meowscarada ex Meowscarada**
+   - 期待勝率: 46.5% (基本: 46.5%)
+   - 環境シェア: 0.6% (特殊)
+   - 信頼度: 80%
+
+11. **Zoroark ex Team Rocket's Weezing ex**
+   - 期待勝率: 46.3% (基本: 46.3%)
+   - 環境シェア: 0.2% (特殊)
+   - 信頼度: 70%
+
 12. **Team Rocket's Weezing ex Zoroark ex**
-   - 期待勝率: 46.6% (基本: 46.6%)
+   - 期待勝率: 46.3% (基本: 46.3%)
    - 環境シェア: 0.3% (特殊)
    - 信頼度: 80%
 
-13. **Charizard ex Mega Charizard Y ex**
-   - 期待勝率: 45.8% (基本: 45.8%)
+13. **Rotom ex Oricorio**
+   - 期待勝率: 45.7% (基本: 45.7%)
+   - 環境シェア: 0.2% (特殊)
+   - 信頼度: 70%
+
+14. **Charizard ex Mega Charizard Y ex**
+   - 期待勝率: 45.1% (基本: 45.1%)
    - 環境シェア: 0.3% (特殊)
    - 信頼度: 80%
 
-14. **Mega Altaria ex Chingling**
+15. **Mega Altaria ex Chingling**
    - 期待勝率: 44.9% (基本: 44.9%)
    - 環境シェア: 0.7% (特殊)
    - 信頼度: 80%
 
-15. **Mega Gardevoir ex Mega Diancie ex**
-   - 期待勝率: 44.8% (基本: 44.8%)
+16. **Mega Gardevoir ex Mega Diancie ex**
+   - 期待勝率: 44.7% (基本: 44.6%)
    - 環境シェア: 0.8% (特殊)
    - 信頼度: 90%
 
-16. **Mega Mawile ex**
+17. **Mega Mawile ex**
    - 期待勝率: 44.6% (基本: 44.6%)
    - 環境シェア: 0.3% (特殊)
    - 信頼度: 70%
 
-17. **Team Rocket's Weezing ex Mega Absol ex**
-   - 期待勝率: 44.4% (基本: 44.4%)
+18. **Team Rocket's Weezing ex Mega Absol ex**
+   - 期待勝率: 44.3% (基本: 44.4%)
    - 環境シェア: 0.3% (特殊)
    - 信頼度: 80%
 
-18. **Mega Lucario ex Teal Mask Ogerpon ex**
-   - 期待勝率: 43.9% (基本: 43.9%)
+19. **Mega Lucario ex Teal Mask Ogerpon ex**
+   - 期待勝率: 44.2% (基本: 44.2%)
    - 環境シェア: 0.3% (特殊)
-   - 信頼度: 70%
-
-19. **Mega Altaria ex Gourgeist**
-   - 期待勝率: 43.7% (基本: 43.7%)
-   - 環境シェア: 0.2% (特殊)
-   - 信頼度: 70%
+   - 信頼度: 80%
 
 20. **Jumpluff ex Team Rocket's Electrode**
    - 期待勝率: 42.5% (基本: 42.5%)
@@ -298,15 +298,15 @@
    - 環境シェア: 0.3% (特殊)
    - 信頼度: 80%
 
-25. **Garchomp**
-   - 期待勝率: 39.8% (基本: 39.8%)
-   - 環境シェア: 0.5% (特殊)
-   - 信頼度: 80%
-
-26. **Team Rocket's Raticate ex Alolan Ninetales ex**
-   - 期待勝率: 39.6% (基本: 39.6%)
+25. **Team Rocket's Raticate ex Alolan Ninetales ex**
+   - 期待勝率: 39.6% (基本: 39.5%)
    - 環境シェア: 1.0% (特殊)
    - 信頼度: 90%
+
+26. **Garchomp**
+   - 期待勝率: 39.5% (基本: 39.5%)
+   - 環境シェア: 0.5% (特殊)
+   - 信頼度: 80%
 
 27. **Whimsicott ex Ariados**
    - 期待勝率: 39.0% (基本: 39.0%)
@@ -331,13 +331,13 @@
 ## 📈 環境分析サマリー
 
 ### 主要な発見
-- **使用率1位のMega Lucario ex Lucarioより、期待勝率ではGreninja Mega Absol exが優秀**
+- **使用率1位のMega Altaria ex Espeonより、期待勝率ではMagnezone Miraidon exが優秀**
 - **実用レベル(53%+)のデッキ数**: 0個 - 固着環境
 
 
 ### 推奨戦略
-- **Greninja Mega Absol exを軸とした構築**が現環境で最も期待値が高い
-- 環境上位デッキ（Greninja Mega Absol ex, Miraidon ex Magnezone, Magnezone Miraidon ex）への対策が重要
+- **Magnezone Miraidon exを軸とした構築**が現環境で最も期待値が高い
+- 環境上位デッキ（Magnezone Miraidon ex, Greninja Mega Absol ex, Mega Sharpedo ex Chien-Pao ex）への対策が重要
 
 
 ---
